@@ -1,5 +1,5 @@
 ---
 title: "Banca Navidad"
-url: /santo-domingo/banca-navidad/
+url: /santo-domingo/banca-navidad-calle-guayubin/
 shop: lotería
 ---

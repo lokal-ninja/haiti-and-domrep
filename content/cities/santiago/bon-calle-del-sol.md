@@ -1,5 +1,5 @@
 ---
 title: "Bon"
-url: /santiago/bon/
+url: /santiago/bon-calle-del-sol/
 shop: general
 ---

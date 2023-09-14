@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
-url: /santo-domingo/barber-shop/
+url: /santo-domingo/barber-shop-avenida-romulo-betancourt/
 shop: peluquería
 ---

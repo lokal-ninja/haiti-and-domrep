@@ -1,5 +1,5 @@
 ---
 title: "Ariela Import"
-url: /santo-domingo-este/ariela-import/
+url: /santo-domingo-este/ariela-import-caamano/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joyería Melvin"
-url: /santo-domingo/joyeria-melvin/
+url: /santo-domingo/joyeria-melvin-calle-la-filantropica-2/
 shop: joyería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /santiago-de-los-caballeros/claro/
+url: /santiago-de-los-caballeros/claro-avenida-27-de-febrero-2/
 shop: teléfono móvil
 ---

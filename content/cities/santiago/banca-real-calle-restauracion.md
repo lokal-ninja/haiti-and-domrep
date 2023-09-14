@@ -1,5 +1,5 @@
 ---
 title: "Banca Real"
-url: /santiago/banca-real/
+url: /santiago/banca-real-calle-restauracion/
 shop: lotería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Sirena"
-url: /santo-domingo/la-sirena/
+url: /santo-domingo/la-sirena-avenida-jose-contreras/
 shop: comodidad
 ---

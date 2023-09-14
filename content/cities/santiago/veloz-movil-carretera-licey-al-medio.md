@@ -1,5 +1,5 @@
 ---
 title: "Veloz Movil"
-url: /santiago/veloz-movil/
+url: /santiago/veloz-movil-carretera-licey-al-medio/
 shop: coche
 ---

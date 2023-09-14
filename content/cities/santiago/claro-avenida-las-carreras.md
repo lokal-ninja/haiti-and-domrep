@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /santiago/claro/
+url: /santiago/claro-avenida-las-carreras/
 shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Papeleria CCC"
-url: /santo-domingo/papeleria-ccc/
+url: /santo-domingo/papeleria-ccc-avenida-27-de-febrero/
 shop: libros
 ---

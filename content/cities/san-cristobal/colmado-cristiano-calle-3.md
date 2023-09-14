@@ -1,5 +1,5 @@
 ---
 title: "Colmado Cristiano"
-url: /san-cristobal/colmado-cristiano/
+url: /san-cristobal/colmado-cristiano-calle-3/
 shop: comodidad
 ---

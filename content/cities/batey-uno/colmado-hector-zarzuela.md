@@ -1,5 +1,5 @@
 ---
 title: "Colmado"
-url: /batey-uno/colmado/
+url: /batey-uno/colmado-hector-zarzuela/
 shop: comodidad
 ---

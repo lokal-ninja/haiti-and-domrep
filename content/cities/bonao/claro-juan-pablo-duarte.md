@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /bonao/claro/
+url: /bonao/claro-juan-pablo-duarte/
 shop: teléfono móvil
 ---

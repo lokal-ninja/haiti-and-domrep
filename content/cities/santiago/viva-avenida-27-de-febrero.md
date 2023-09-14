@@ -1,5 +1,5 @@
 ---
 title: "Viva"
-url: /santiago/viva/
+url: /santiago/viva-avenida-27-de-febrero/
 shop: general
 ---

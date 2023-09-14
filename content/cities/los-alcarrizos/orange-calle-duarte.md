@@ -1,5 +1,5 @@
 ---
 title: "Orange"
-url: /los-alcarrizos/orange/
+url: /los-alcarrizos/orange-calle-duarte/
 shop: teléfono móvil
 ---

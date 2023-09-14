@@ -1,5 +1,5 @@
 ---
 title: "Banca Real"
-url: /bonao/banca-real/
+url: /bonao/banca-real-juan-pablo-duarte/
 shop: lotería
 ---

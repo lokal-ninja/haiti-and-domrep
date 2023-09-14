@@ -1,5 +1,5 @@
 ---
 title: "Nicolle Muebles"
-url: /los-alcarrizos/nicolle-muebles/
+url: /los-alcarrizos/nicolle-muebles-calle-duarte/
 shop: muebles
 ---

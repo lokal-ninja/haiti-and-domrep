@@ -1,5 +1,5 @@
 ---
 title: "Electromuebles Infante"
-url: /la-vega/electromuebles-infante/
+url: /la-vega/electromuebles-infante-don-luis-despradel/
 shop: muebles
 ---

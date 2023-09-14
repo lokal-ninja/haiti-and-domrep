@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /santiago/claro/
+url: /santiago/claro-av-nunez-de-cacerez/
 shop: teléfono móvil
 ---

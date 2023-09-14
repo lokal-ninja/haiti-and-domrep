@@ -1,5 +1,5 @@
 ---
 title: "Banca Siler"
-url: /santiago/banca-siler/
+url: /santiago/banca-siler-avenida-circunvalacion/
 shop: lotería
 ---

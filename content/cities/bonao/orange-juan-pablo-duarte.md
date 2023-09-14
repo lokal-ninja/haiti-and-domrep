@@ -1,5 +1,5 @@
 ---
 title: "Orange"
-url: /bonao/orange/
+url: /bonao/orange-juan-pablo-duarte/
 shop: teléfono móvil
 ---

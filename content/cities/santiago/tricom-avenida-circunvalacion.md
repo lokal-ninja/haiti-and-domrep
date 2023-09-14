@@ -1,5 +1,5 @@
 ---
 title: "Tricom"
-url: /santiago/tricom/
+url: /santiago/tricom-avenida-circunvalacion/
 shop: teléfono móvil
 ---

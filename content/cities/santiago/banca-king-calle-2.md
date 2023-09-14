@@ -1,5 +1,5 @@
 ---
 title: "Banca King"
-url: /santiago/banca-king/
+url: /santiago/banca-king-calle-2/
 shop: lotería
 ---

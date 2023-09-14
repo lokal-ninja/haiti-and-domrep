@@ -1,5 +1,5 @@
 ---
 title: "Jumbo"
-url: /santo-domingo-este/jumbo/
+url: /santo-domingo-este/jumbo-carretera-matias-ramon-mella/
 shop: grandes almacenes
 ---

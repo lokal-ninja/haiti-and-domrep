@@ -1,5 +1,5 @@
 ---
 title: "Downtown Center"
-url: /santo-domingo/downtown-center/
+url: /santo-domingo/downtown-center-avenida-nunez-de-caceres/
 shop: centro comercial
 ---
