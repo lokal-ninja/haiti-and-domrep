@@ -1,6 +1,6 @@
 ---
 title: André
 url: /andre/
-latitude: 18.458
-longitude: -69.629
+latitude: 18.448
+longitude: -69.634
 ---
