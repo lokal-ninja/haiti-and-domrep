@@ -1,6 +1,6 @@
 ---
 title: Santiago
 url: /santiago/
-latitude: 19.458
-longitude: -70.676
+latitude: 19.473
+longitude: -70.73
 ---
