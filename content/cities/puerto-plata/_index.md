@@ -1,6 +1,6 @@
 ---
 title: Puerto Plata
 url: /puerto-plata/
-latitude: 19.8
-longitude: -70.691
+latitude: 19.808
+longitude: -70.721
 ---
