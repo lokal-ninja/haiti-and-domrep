@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Cuevas"
 url: /san-cristobal/ferreteria-cuevas/
-shop: hardware
+shop: Eisenwaren
 ---

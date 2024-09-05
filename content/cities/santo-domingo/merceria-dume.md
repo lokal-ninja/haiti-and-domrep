@@ -1,5 +1,5 @@
 ---
 title: "Merceria Dume"
 url: /santo-domingo/merceria-dume/
-shop: general
+shop: Allgemein
 ---

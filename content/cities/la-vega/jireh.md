@@ -1,5 +1,5 @@
 ---
 title: "Jireh"
 url: /la-vega/jireh/
-shop: panadería
+shop: Bäckerei
 ---

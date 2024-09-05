@@ -1,5 +1,5 @@
 ---
 title: "Centro Vision"
 url: /santo-domingo/centro-vision/
-shop: óptico
+shop: Optiker
 ---

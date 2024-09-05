@@ -1,5 +1,5 @@
 ---
 title: "PuntoMac"
 url: /santo-domingo/puntomac/
-shop: ordenador
+shop: Computer
 ---

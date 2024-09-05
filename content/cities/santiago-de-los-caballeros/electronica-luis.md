@@ -1,5 +1,5 @@
 ---
 title: "Eléctronica Luis"
 url: /santiago-de-los-caballeros/electronica-luis/
-shop: electrónica
+shop: Elektronik
 ---

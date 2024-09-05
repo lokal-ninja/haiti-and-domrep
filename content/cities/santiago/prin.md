@@ -1,5 +1,5 @@
 ---
 title: "Prin"
 url: /santiago/prin/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puertas y Ventanas Suero"
 url: /santo-domingo/puertas-y-ventanas-suero/
-shop: general
+shop: Allgemein
 ---

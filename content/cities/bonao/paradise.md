@@ -1,5 +1,5 @@
 ---
 title: "Paradise"
 url: /bonao/paradise/
-shop: general
+shop: Allgemein
 ---

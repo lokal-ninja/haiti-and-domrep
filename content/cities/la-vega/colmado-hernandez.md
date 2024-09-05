@@ -1,5 +1,5 @@
 ---
 title: "Colmado Hernandez"
 url: /la-vega/colmado-hernandez/
-shop: comodidad
+shop: Lebensmittel
 ---

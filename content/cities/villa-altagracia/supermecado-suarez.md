@@ -1,5 +1,5 @@
 ---
 title: "Supermecado Suarez"
 url: /villa-altagracia/supermecado-suarez/
-shop: comodidad
+shop: Lebensmittel
 ---

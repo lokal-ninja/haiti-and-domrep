@@ -1,5 +1,5 @@
 ---
 title: "Banca Juancito Sport"
 url: /santo-domingo/banca-juancito-sport/
-shop: lotería
+shop: Lotterie
 ---

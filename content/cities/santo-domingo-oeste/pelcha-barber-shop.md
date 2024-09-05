@@ -1,5 +1,5 @@
 ---
 title: "Pelcha Barber Shop"
 url: /santo-domingo-oeste/pelcha-barber-shop/
-shop: peluquería
+shop: Friseur
 ---

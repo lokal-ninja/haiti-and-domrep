@@ -1,5 +1,5 @@
 ---
 title: "Bellon"
 url: /santiago-de-los-caballeros/bellon/
-shop: general
+shop: Allgemein
 ---

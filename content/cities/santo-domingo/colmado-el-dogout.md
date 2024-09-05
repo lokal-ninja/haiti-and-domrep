@@ -1,5 +1,5 @@
 ---
 title: "Colmado el Dogout"
 url: /santo-domingo/colmado-el-dogout/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bon"
 url: /santo-domingo/bon-avenida-duarte/
-shop: general
+shop: Allgemein
 ---

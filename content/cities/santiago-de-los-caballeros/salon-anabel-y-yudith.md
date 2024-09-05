@@ -1,5 +1,5 @@
 ---
 title: "Salon Anabel y Yudith"
 url: /santiago-de-los-caballeros/salon-anabel-y-yudith/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tutti Frutti"
 url: /la-vega/tutti-frutti/
-shop: general
+shop: Allgemein
 ---

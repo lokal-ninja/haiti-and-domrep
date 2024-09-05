@@ -1,5 +1,5 @@
 ---
 title: "Banca O.M."
 url: /santiago/banca-o-m/
-shop: lotería
+shop: Lotterie
 ---

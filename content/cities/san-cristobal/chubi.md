@@ -1,5 +1,5 @@
 ---
 title: "Chubi"
 url: /san-cristobal/chubi/
-shop: motocicleta
+shop: Motorrad
 ---

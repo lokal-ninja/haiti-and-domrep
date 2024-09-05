@@ -1,5 +1,5 @@
 ---
 title: "Banca Juan"
 url: /santo-domingo/banca-juan-calle-primera/
-shop: lotería
+shop: Lotterie
 ---

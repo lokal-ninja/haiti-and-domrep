@@ -1,5 +1,5 @@
 ---
 title: "Credifacil"
 url: /santiago/credifacil/
-shop: prestamista
+shop: Leiher
 ---

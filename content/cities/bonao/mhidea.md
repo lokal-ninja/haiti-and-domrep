@@ -1,5 +1,5 @@
 ---
 title: "Mhidea"
 url: /bonao/mhidea/
-shop: supermercado
+shop: Supermarkt
 ---

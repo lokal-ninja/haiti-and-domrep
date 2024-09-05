@@ -1,5 +1,5 @@
 ---
 title: "Q Precios"
 url: /la-vega/q-precios/
-shop: general
+shop: Allgemein
 ---

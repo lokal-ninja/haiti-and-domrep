@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Bellon"
 url: /santiago/ferreteria-bellon/
-shop: hardware
+shop: Eisenwaren
 ---

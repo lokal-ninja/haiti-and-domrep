@@ -1,5 +1,5 @@
 ---
 title: "Zaro"
 url: /bonao/zaro/
-shop: ropa
+shop: Kleidung
 ---

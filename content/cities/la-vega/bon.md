@@ -1,5 +1,5 @@
 ---
 title: "Bon"
 url: /la-vega/bon/
-shop: general
+shop: Allgemein
 ---

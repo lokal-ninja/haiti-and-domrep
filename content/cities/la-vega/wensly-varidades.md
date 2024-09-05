@@ -1,5 +1,5 @@
 ---
 title: "Wensly Varidades"
 url: /la-vega/wensly-varidades/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bon"
 url: /san-cristobal/bon/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cecomsa"
 url: /santo-domingo/cecomsa/
-shop: ordenador
+shop: Computer
 ---

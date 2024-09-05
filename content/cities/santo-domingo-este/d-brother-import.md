@@ -1,5 +1,5 @@
 ---
 title: "D' Brother Import"
 url: /santo-domingo-este/d-brother-import/
-shop: ropa
+shop: Kleidung
 ---

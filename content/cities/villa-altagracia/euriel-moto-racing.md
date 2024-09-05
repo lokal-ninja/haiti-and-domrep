@@ -1,5 +1,5 @@
 ---
 title: "Euriel Moto Racing"
 url: /villa-altagracia/euriel-moto-racing/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Banca Alejandro"
 url: /santo-domingo/banca-alejandro/
-shop: lotería
+shop: Lotterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria El Fuerte"
 url: /campo-lindo/peluqueria-el-fuerte/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro De Belleza"
 url: /santiago/centro-de-belleza/
-shop: peluquería
+shop: Friseur
 ---

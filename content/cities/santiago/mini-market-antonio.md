@@ -1,5 +1,5 @@
 ---
 title: "Mini Market Antonio"
 url: /santiago/mini-market-antonio/
-shop: comodidad
+shop: Lebensmittel
 ---

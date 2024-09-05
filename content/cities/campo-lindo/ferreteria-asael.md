@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Asael"
 url: /campo-lindo/ferreteria-asael/
-shop: hardware
+shop: Eisenwaren
 ---

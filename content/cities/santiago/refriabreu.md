@@ -1,5 +1,5 @@
 ---
 title: "RefriAbreu"
 url: /santiago/refriabreu/
-shop: general
+shop: Allgemein
 ---

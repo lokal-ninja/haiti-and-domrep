@@ -1,5 +1,5 @@
 ---
 title: "Super Colmado Rodrigues"
 url: /santiago/super-colmado-rodrigues/
-shop: quiosco
+shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Then Autos"
 url: /santo-domingo-este/then-autos/
-shop: coche
+shop: Autohaus
 ---

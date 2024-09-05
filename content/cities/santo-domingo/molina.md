@@ -1,5 +1,5 @@
 ---
 title: "Molina"
 url: /santo-domingo/molina/
-shop: supermercado
+shop: Supermarkt
 ---

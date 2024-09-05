@@ -1,5 +1,5 @@
 ---
 title: "Rene shop"
 url: /route-nationale-carrfou-seprnn/rene-shop/
-shop: exterior
+shop: Outdoor
 ---

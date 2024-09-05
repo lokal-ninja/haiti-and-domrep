@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Nacional"
 url: /santo-domingo/supermercados-nacional/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ricardo"
 url: /bonao/ricardo/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ropa Nueva Y Usada"
 url: /bonao/ropa-nueva-y-usada/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loteka Te Toca"
 url: /santiago/loteka-te-toca-avenida-circunvalacion/
-shop: lotería
+shop: Lotterie
 ---

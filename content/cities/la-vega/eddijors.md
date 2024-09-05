@@ -1,5 +1,5 @@
 ---
 title: "Eddijor's"
 url: /la-vega/eddijors/
-shop: general
+shop: Allgemein
 ---

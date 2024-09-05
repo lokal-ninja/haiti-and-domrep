@@ -1,5 +1,5 @@
 ---
 title: "Surprise"
 url: /praville-15/surprise/
-shop: peluquería
+shop: Friseur
 ---

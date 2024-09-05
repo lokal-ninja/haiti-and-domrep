@@ -1,5 +1,5 @@
 ---
 title: "Farmahorro"
 url: /santiago/farmahorro/
-shop: comodidad
+shop: Lebensmittel
 ---

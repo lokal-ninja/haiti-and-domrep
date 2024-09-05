@@ -1,5 +1,5 @@
 ---
 title: "Patron"
 url: /santiago/patron/
-shop: bicicleta
+shop: Fahrrad
 ---

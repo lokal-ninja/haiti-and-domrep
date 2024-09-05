@@ -1,5 +1,5 @@
 ---
 title: "Le Licata's"
 url: /la-vega/le-licatas/
-shop: tienda
+shop: Modehaus
 ---

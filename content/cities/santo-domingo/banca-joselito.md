@@ -1,5 +1,5 @@
 ---
 title: "Banca Joselito"
 url: /santo-domingo/banca-joselito/
-shop: lotería
+shop: Lotterie
 ---

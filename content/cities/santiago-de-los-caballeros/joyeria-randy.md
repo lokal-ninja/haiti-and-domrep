@@ -1,5 +1,5 @@
 ---
 title: "Joyeria Randy"
 url: /santiago-de-los-caballeros/joyeria-randy/
-shop: joyería
+shop: Schmuck
 ---

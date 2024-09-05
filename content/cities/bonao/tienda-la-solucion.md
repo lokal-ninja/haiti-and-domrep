@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Solucion"
 url: /bonao/tienda-la-solucion/
-shop: comodidad
+shop: Lebensmittel
 ---

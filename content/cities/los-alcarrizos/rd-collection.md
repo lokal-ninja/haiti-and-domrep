@@ -1,5 +1,5 @@
 ---
 title: "RD Collection"
 url: /los-alcarrizos/rd-collection/
-shop: zapatos
+shop: Schuhe
 ---

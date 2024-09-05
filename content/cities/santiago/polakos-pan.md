@@ -1,5 +1,5 @@
 ---
 title: "Polako's Pan"
 url: /santiago/polakos-pan/
-shop: panadería
+shop: Bäckerei
 ---

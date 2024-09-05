@@ -1,5 +1,5 @@
 ---
 title: "Efrata"
 url: /santo-domingo/efrata/
-shop: ropa
+shop: Kleidung
 ---

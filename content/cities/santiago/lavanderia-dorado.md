@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Dorado"
 url: /santiago/lavanderia-dorado/
-shop: lavandería
+shop: Wäscherei
 ---

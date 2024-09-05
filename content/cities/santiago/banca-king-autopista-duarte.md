@@ -1,5 +1,5 @@
 ---
 title: "Banca King"
 url: /santiago/banca-king-autopista-duarte/
-shop: lotería
+shop: Lotterie
 ---

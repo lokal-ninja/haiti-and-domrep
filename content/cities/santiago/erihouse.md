@@ -1,5 +1,5 @@
 ---
 title: "Erihouse"
 url: /santiago/erihouse/
-shop: hardware
+shop: Eisenwaren
 ---

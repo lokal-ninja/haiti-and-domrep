@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /la-vega/claro-avenida-monsenor-panal-3/
-shop: teléfono móvil
+shop: Handy
 ---

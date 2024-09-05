@@ -1,5 +1,5 @@
 ---
 title: "Espinal"
 url: /santiago/espinal/
-shop: lotería
+shop: Lotterie
 ---

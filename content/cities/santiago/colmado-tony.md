@@ -1,5 +1,5 @@
 ---
 title: "Colmado Tony"
 url: /santiago/colmado-tony/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colmado La Fuerza"
 url: /santo-domingo-oeste/colmado-la-fuerza/
-shop: comodidad
+shop: Lebensmittel
 ---

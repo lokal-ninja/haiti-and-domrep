@@ -1,5 +1,5 @@
 ---
 title: "boutique"
 url: /jacmel/boutique/
-shop: comodidad
+shop: Lebensmittel
 ---

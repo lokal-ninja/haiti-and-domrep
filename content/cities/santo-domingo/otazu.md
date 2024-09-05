@@ -1,5 +1,5 @@
 ---
 title: "Otazu"
 url: /santo-domingo/otazu/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Empresas Diamond"
 url: /villa-altagracia/empresas-diamond/
-shop: general
+shop: Allgemein
 ---

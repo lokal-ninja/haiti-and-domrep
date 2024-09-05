@@ -1,5 +1,5 @@
 ---
 title: "Yoannely"
 url: /san-cristobal/yoannely/
-shop: general
+shop: Allgemein
 ---

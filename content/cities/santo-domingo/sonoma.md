@@ -1,5 +1,5 @@
 ---
 title: "Sonoma"
 url: /santo-domingo/sonoma/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bon"
 url: /bonao/bon/
-shop: helado
+shop: Eisprodukte
 ---

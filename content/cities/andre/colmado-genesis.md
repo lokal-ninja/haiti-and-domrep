@@ -1,5 +1,5 @@
 ---
 title: "Colmado Genesis"
 url: /andre/colmado-genesis/
-shop: comodidad
+shop: Lebensmittel
 ---

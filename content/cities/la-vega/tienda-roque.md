@@ -1,5 +1,5 @@
 ---
 title: "Tienda Roque"
 url: /la-vega/tienda-roque/
-shop: general
+shop: Allgemein
 ---

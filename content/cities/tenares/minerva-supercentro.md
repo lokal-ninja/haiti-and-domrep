@@ -1,5 +1,5 @@
 ---
 title: "Minerva Supercentro"
 url: /tenares/minerva-supercentro/
-shop: supermercado
+shop: Supermarkt
 ---

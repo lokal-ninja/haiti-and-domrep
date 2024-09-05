@@ -1,5 +1,5 @@
 ---
 title: "Auto Camiones"
 url: /santo-domingo/auto-camiones/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colmado Rodriguez"
 url: /santo-domingo-oeste/colmado-rodriguez/
-shop: comodidad
+shop: Lebensmittel
 ---

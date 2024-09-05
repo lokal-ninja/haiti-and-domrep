@@ -1,5 +1,5 @@
 ---
 title: "Sierra Muebles"
 url: /san-cristobal/sierra-muebles/
-shop: muebles
+shop: Möbel
 ---

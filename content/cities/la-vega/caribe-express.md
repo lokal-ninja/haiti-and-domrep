@@ -1,5 +1,5 @@
 ---
 title: "Caribe Express"
 url: /la-vega/caribe-express/
-shop: prestamista
+shop: Leiher
 ---

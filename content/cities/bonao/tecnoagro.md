@@ -1,5 +1,5 @@
 ---
 title: "Tecnoagro"
 url: /bonao/tecnoagro/
-shop: general
+shop: Allgemein
 ---

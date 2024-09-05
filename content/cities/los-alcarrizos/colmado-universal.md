@@ -1,5 +1,5 @@
 ---
 title: "Colmado Universal"
 url: /los-alcarrizos/colmado-universal/
-shop: comodidad
+shop: Lebensmittel
 ---

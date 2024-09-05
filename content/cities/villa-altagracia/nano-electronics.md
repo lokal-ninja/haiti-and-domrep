@@ -1,5 +1,5 @@
 ---
 title: "Nano Electronics"
 url: /villa-altagracia/nano-electronics/
-shop: electrónica
+shop: Elektronik
 ---

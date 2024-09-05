@@ -1,5 +1,5 @@
 ---
 title: "kitem pou kom ak bondye"
 url: /gonaives-parc-vincent/kitem-pou-kom-ak-bondye/
-shop: comodidad
+shop: Lebensmittel
 ---

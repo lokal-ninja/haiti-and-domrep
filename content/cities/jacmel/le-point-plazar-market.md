@@ -1,5 +1,5 @@
 ---
 title: "Le Point Plazar Market"
 url: /jacmel/le-point-plazar-market/
-shop: comodidad
+shop: Lebensmittel
 ---

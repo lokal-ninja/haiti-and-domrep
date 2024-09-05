@@ -1,5 +1,5 @@
 ---
 title: "Ole"
 url: /boca-chica/ole/
-shop: supermercado
+shop: Supermarkt
 ---

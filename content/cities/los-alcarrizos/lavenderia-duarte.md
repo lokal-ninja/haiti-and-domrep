@@ -1,5 +1,5 @@
 ---
 title: "Lavenderia Duarte"
 url: /los-alcarrizos/lavenderia-duarte/
-shop: general
+shop: Allgemein
 ---

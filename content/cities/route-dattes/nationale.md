@@ -1,5 +1,5 @@
 ---
 title: "Nationale"
 url: /route-dattes/nationale/
-shop: general
+shop: Allgemein
 ---

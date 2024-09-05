@@ -1,5 +1,5 @@
 ---
 title: "Buena Onda Shoes"
 url: /la-vega/buena-onda-shoes/
-shop: zapatos
+shop: Schuhe
 ---

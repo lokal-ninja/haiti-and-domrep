@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Genao Marte"
 url: /santiago/distribuidora-genao-marte/
-shop: general
+shop: Allgemein
 ---

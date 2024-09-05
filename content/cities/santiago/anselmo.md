@@ -1,5 +1,5 @@
 ---
 title: "Anselmo"
 url: /santiago/anselmo/
-shop: ropa
+shop: Kleidung
 ---

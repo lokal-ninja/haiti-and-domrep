@@ -1,5 +1,5 @@
 ---
 title: "Super Fria"
 url: /santo-domingo/super-fria/
-shop: general
+shop: Allgemein
 ---

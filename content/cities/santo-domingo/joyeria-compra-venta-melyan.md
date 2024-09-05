@@ -1,5 +1,5 @@
 ---
 title: "Joyería Compra Venta Melyan"
 url: /santo-domingo/joyeria-compra-venta-melyan/
-shop: joyería
+shop: Schmuck
 ---

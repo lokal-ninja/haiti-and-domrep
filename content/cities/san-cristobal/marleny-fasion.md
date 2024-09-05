@@ -1,5 +1,5 @@
 ---
 title: "Marleny Fasion"
 url: /san-cristobal/marleny-fasion/
-shop: ropa
+shop: Kleidung
 ---

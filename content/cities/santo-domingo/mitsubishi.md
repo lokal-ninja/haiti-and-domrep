@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /santo-domingo/mitsubishi/
-shop: coche
+shop: Autohaus
 ---

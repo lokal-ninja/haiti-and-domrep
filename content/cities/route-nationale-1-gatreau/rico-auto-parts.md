@@ -1,5 +1,5 @@
 ---
 title: "Rico auto parts"
 url: /route-nationale-1-gatreau/rico-auto-parts/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "boulanger"
 url: /jacmel/boulanger/
-shop: panadería
+shop: Bäckerei
 ---

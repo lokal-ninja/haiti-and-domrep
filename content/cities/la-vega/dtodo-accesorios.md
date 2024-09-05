@@ -1,5 +1,5 @@
 ---
 title: "D'todo Accesorios"
 url: /la-vega/dtodo-accesorios/
-shop: general
+shop: Allgemein
 ---

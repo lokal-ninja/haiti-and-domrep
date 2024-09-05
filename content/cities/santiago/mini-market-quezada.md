@@ -1,5 +1,5 @@
 ---
 title: "Mini Market Quezada"
 url: /santiago/mini-market-quezada/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juancito Sport"
 url: /santiago-de-los-caballeros/juancito-sport/
-shop: lotería
+shop: Lotterie
 ---

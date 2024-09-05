@@ -1,5 +1,5 @@
 ---
 title: "Out Sport"
 url: /santiago/out-sport/
-shop: lotería
+shop: Lotterie
 ---

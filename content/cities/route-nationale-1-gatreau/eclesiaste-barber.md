@@ -1,5 +1,5 @@
 ---
 title: "Eclesiaste barber"
 url: /route-nationale-1-gatreau/eclesiaste-barber/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pet World"
 url: /santo-domingo/pet-world/
-shop: mascotas
+shop: Tiere
 ---

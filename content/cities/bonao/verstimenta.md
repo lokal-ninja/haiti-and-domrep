@@ -1,5 +1,5 @@
 ---
 title: "Verstimenta"
 url: /bonao/verstimenta/
-shop: ropa
+shop: Kleidung
 ---

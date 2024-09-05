@@ -1,5 +1,5 @@
 ---
 title: "Casi Cien"
 url: /santo-domingo/casi-cien/
-shop: general
+shop: Allgemein
 ---

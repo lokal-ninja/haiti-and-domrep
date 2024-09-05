@@ -1,5 +1,5 @@
 ---
 title: "Fundacion"
 url: /san-cristobal/fundacion/
-shop: panadería
+shop: Bäckerei
 ---

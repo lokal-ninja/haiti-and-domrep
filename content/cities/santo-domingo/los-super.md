@@ -1,5 +1,5 @@
 ---
 title: "Los Super"
 url: /santo-domingo/los-super/
-shop: neumáticos
+shop: Reifen
 ---

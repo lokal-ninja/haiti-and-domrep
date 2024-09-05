@@ -1,5 +1,5 @@
 ---
 title: "Pica Pollo Wish"
 url: /san-cristobal/pica-pollo-wish/
-shop: general
+shop: Allgemein
 ---

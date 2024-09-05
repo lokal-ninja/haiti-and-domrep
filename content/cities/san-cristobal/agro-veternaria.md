@@ -1,5 +1,5 @@
 ---
 title: "Agro Veternaria"
 url: /san-cristobal/agro-veternaria/
-shop: mascotas
+shop: Tiere
 ---

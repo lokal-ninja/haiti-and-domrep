@@ -1,5 +1,5 @@
 ---
 title: "Altacasa"
 url: /santo-domingo/altacasa/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Importadora Jowilsa"
 url: /la-vega/importadora-jowilsa/
-shop: hardware
+shop: Eisenwaren
 ---

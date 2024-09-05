@@ -1,5 +1,5 @@
 ---
 title: "Franshescouture"
 url: /la-vega/franshescouture/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /moncion/texaco/
-shop: comodidad
+shop: Lebensmittel
 ---

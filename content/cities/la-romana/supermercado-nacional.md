@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Nacional"
 url: /la-romana/supermercado-nacional/
-shop: supermercado
+shop: Supermarkt
 ---

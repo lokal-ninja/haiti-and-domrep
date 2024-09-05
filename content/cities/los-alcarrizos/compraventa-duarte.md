@@ -1,5 +1,5 @@
 ---
 title: "Compraventa Duarte"
 url: /los-alcarrizos/compraventa-duarte/
-shop: prestamista
+shop: Leiher
 ---

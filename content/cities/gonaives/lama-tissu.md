@@ -1,5 +1,5 @@
 ---
 title: "lama tissu"
 url: /gonaives/lama-tissu/
-shop: ropa
+shop: Kleidung
 ---

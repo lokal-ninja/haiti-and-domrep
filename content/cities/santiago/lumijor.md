@@ -1,5 +1,5 @@
 ---
 title: "Lumijor"
 url: /santiago/lumijor/
-shop: panadería
+shop: Bäckerei
 ---

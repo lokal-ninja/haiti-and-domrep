@@ -1,5 +1,5 @@
 ---
 title: "Clinica Veterinaria"
 url: /santo-domingo/clinica-veterinaria/
-shop: mascotas
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Banca Romana"
 url: /san-cristobal/banca-romana/
-shop: lotería
+shop: Lotterie
 ---

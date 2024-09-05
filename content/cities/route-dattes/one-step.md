@@ -1,5 +1,5 @@
 ---
 title: "One step"
 url: /route-dattes/one-step/
-shop: comodidad
+shop: Lebensmittel
 ---

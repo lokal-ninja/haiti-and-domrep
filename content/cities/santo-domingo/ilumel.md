@@ -1,5 +1,5 @@
 ---
 title: "Ilumel"
 url: /santo-domingo/ilumel/
-shop: muebles
+shop: Möbel
 ---

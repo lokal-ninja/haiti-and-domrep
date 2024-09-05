@@ -1,5 +1,5 @@
 ---
 title: "Betty's Cake"
 url: /andre/bettys-cake/
-shop: panadería
+shop: Bäckerei
 ---

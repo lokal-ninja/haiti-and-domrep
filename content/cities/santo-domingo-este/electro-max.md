@@ -1,5 +1,5 @@
 ---
 title: "Electro Max"
 url: /santo-domingo-este/electro-max/
-shop: electrónica
+shop: Elektronik
 ---

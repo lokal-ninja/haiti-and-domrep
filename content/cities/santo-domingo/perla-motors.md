@@ -1,5 +1,5 @@
 ---
 title: "Perla Motors"
 url: /santo-domingo/perla-motors/
-shop: coche
+shop: Autohaus
 ---

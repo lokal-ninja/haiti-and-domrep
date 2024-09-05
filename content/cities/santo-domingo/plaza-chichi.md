@@ -1,5 +1,5 @@
 ---
 title: "Plaza Chichi"
 url: /santo-domingo/plaza-chichi/
-shop: general
+shop: Allgemein
 ---

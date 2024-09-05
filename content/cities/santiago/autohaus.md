@@ -1,5 +1,5 @@
 ---
 title: "AutoHaus"
 url: /santiago/autohaus/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadito La Marquesina"
 url: /san-cristobal/mercadito-la-marquesina/
-shop: comodidad
+shop: Lebensmittel
 ---
