@@ -1,5 +1,5 @@
 ---
 title: "El Amigo"
 url: /jarabacoa/el-amigo/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burbujas"
 url: /santiago/burbujas/
-shop: Allgemein
+shop: general
 ---

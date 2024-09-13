@@ -1,5 +1,5 @@
 ---
 title: "Postopedico"
 url: /santiago/postopedico/
-shop: Betten
+shop: cama
 ---

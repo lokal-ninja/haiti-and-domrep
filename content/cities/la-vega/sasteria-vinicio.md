@@ -1,5 +1,5 @@
 ---
 title: "Sasteria Vinicio"
 url: /la-vega/sasteria-vinicio/
-shop: Schneiderei
+shop: sastre
 ---

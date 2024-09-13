@@ -1,5 +1,5 @@
 ---
 title: "Daloulou"
 url: /route-nationale-bigot/daloulou/
-shop: Lebensmittel
+shop: comodidad
 ---

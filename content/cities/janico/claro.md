@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /janico/claro/
-shop: Handy
+shop: teléfono móvil
 ---

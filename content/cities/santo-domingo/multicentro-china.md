@@ -1,5 +1,5 @@
 ---
 title: "MultiCentro China"
 url: /santo-domingo/multicentro-china/
-shop: Kleidung
+shop: ropa
 ---

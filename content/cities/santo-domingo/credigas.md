@@ -1,5 +1,5 @@
 ---
 title: "Credigas"
 url: /santo-domingo/credigas/
-shop: Gasflaschen
+shop: gas
 ---

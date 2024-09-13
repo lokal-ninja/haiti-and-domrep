@@ -1,5 +1,5 @@
 ---
 title: "Super Colmado"
 url: /villa-altagracia/super-colmado/
-shop: Lebensmittel
+shop: comodidad
 ---

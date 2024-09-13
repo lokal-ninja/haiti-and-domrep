@@ -1,5 +1,5 @@
 ---
 title: "Pancho Motors"
 url: /la-vega/pancho-motors/
-shop: Motorrad
+shop: motocicleta
 ---

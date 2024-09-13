@@ -1,5 +1,5 @@
 ---
 title: "la modiste bazar"
 url: /jacmel/la-modiste-bazar/
-shop: Eisenwaren
+shop: hardware
 ---

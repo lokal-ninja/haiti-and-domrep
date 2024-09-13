@@ -1,5 +1,5 @@
 ---
 title: "gessa"
 url: /santo-domingo/gessa/
-shop: Allgemein
+shop: general
 ---

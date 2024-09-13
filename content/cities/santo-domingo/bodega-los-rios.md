@@ -1,5 +1,5 @@
 ---
 title: "Bodega Los Rios"
 url: /santo-domingo/bodega-los-rios/
-shop: Lebensmittel
+shop: comodidad
 ---

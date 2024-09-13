@@ -1,5 +1,5 @@
 ---
 title: "D'Carlos Auto Piezas"
 url: /santiago/dcarlos-auto-piezas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Danny Perfumeria"
 url: /villa-altagracia/danny-perfumeria/
-shop: Kosmetik
+shop: cosméticos
 ---

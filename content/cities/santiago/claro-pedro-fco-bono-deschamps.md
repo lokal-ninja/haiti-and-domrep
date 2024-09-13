@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /santiago/claro-pedro-fco-bono-deschamps/
-shop: Handy
+shop: teléfono móvil
 ---

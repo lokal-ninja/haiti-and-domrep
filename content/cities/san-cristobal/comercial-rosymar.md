@@ -1,5 +1,5 @@
 ---
 title: "Comercial Rosymar"
 url: /san-cristobal/comercial-rosymar/
-shop: Lebensmittel
+shop: comodidad
 ---

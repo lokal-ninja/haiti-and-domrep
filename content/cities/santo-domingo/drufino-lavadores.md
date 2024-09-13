@@ -1,5 +1,5 @@
 ---
 title: "D'Rufino Lavadores"
 url: /santo-domingo/drufino-lavadores/
-shop: Wäscherei
+shop: lavandería
 ---

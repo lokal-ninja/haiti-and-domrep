@@ -1,5 +1,5 @@
 ---
 title: "Supermercado La Compañía"
 url: /los-alcarrizos/supermercado-la-compania/
-shop: Lebensmittel
+shop: comodidad
 ---

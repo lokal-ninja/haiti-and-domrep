@@ -1,5 +1,5 @@
 ---
 title: "Ofimoya"
 url: /la-vega/ofimoya/
-shop: Schreibwaren
+shop: material de oficina
 ---

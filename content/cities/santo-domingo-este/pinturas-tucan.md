@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Tucan"
 url: /santo-domingo-este/pinturas-tucan/
-shop: Farben
+shop: pintura
 ---

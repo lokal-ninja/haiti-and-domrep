@@ -1,5 +1,5 @@
 ---
 title: "GP Imresiones"
 url: /santiago/gp-imresiones/
-shop: Kopieren
+shop: copyshop
 ---

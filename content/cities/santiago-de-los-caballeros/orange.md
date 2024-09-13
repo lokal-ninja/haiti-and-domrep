@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /santiago-de-los-caballeros/orange/
-shop: Handy
+shop: teléfono móvil
 ---

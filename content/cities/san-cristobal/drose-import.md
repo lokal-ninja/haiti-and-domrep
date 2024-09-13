@@ -1,5 +1,5 @@
 ---
 title: "D'Rose Import"
 url: /san-cristobal/drose-import/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D'Jilson Comunicaciones"
 url: /la-vega/djilson-comunicaciones/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JVI Suplidores de Oficina y Escolares"
 url: /santiago/jvi-suplidores-de-oficina-y-escolares/
-shop: Schreibwaren
+shop: material de oficina
 ---

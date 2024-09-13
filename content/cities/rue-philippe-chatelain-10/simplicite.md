@@ -1,5 +1,5 @@
 ---
 title: "simplicite"
 url: /rue-philippe-chatelain-10/simplicite/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jonathan Comercial"
 url: /santo-domingo/jonathan-comercial/
-shop: Betten
+shop: cama
 ---

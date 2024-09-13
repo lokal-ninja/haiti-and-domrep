@@ -1,5 +1,5 @@
 ---
 title: "Ferrecentro"
 url: /bonao/ferrecentro/
-shop: Eisenwaren
+shop: hardware
 ---

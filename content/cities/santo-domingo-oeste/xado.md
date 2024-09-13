@@ -1,5 +1,5 @@
 ---
 title: "XADO"
 url: /santo-domingo-oeste/xado/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

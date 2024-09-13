@@ -1,5 +1,5 @@
 ---
 title: "Eagle Paint"
 url: /santiago/eagle-paint/
-shop: Farben
+shop: pintura
 ---

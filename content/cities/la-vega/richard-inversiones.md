@@ -1,5 +1,5 @@
 ---
 title: "Richard Inversiones"
 url: /la-vega/richard-inversiones/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tu Kloset"
 url: /la-vega/tu-kloset/
-shop: Kleidung
+shop: ropa
 ---

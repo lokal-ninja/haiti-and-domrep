@@ -1,5 +1,5 @@
 ---
 title: "D’Esmerlin"
 url: /cabrera/desmerlin/
-shop: Lebensmittel
+shop: comodidad
 ---

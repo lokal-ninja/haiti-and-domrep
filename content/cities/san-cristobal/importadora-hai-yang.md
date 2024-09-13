@@ -1,5 +1,5 @@
 ---
 title: "Importadora Hai Yang"
 url: /san-cristobal/importadora-hai-yang/
-shop: Kramladen
+shop: tienda de variedades
 ---

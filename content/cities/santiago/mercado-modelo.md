@@ -1,5 +1,5 @@
 ---
 title: "Mercado Modelo"
 url: /santiago/mercado-modelo/
-shop: Supermarkt
+shop: supermercado
 ---

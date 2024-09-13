@@ -1,5 +1,5 @@
 ---
 title: "D' Angelina"
 url: /batey-uno/d-angelina/
-shop: Kleidung
+shop: ropa
 ---

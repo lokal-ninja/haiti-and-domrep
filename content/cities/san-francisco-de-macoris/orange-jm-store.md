@@ -1,5 +1,5 @@
 ---
 title: "Orange JM Store"
 url: /san-francisco-de-macoris/orange-jm-store/
-shop: Handy
+shop: teléfono móvil
 ---

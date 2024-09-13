@@ -1,5 +1,5 @@
 ---
 title: "TDC Auto Services"
 url: /santo-domingo/tdc-auto-services/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colmado Lora II"
 url: /santo-domingo/colmado-lora-ii/
-shop: Lebensmittel
+shop: comodidad
 ---

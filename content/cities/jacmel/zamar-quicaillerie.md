@@ -1,5 +1,5 @@
 ---
 title: "zamar quicaillerie"
 url: /jacmel/zamar-quicaillerie/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

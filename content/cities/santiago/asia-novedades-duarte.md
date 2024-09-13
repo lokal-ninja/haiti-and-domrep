@@ -1,5 +1,5 @@
 ---
 title: "Asia Novedades"
 url: /santiago/asia-novedades-duarte/
-shop: Allgemein
+shop: general
 ---

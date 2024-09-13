@@ -1,5 +1,5 @@
 ---
 title: "Floristería"
 url: /santiago/floristeria/
-shop: Blumen
+shop: floristería
 ---

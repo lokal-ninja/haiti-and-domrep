@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Proyecto Valiente"
 url: /campo-lindo/ferreteria-proyecto-valiente/
-shop: Eisenwaren
+shop: hardware
 ---

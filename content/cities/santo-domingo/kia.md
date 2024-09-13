@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /santo-domingo/kia/
-shop: Autohaus
+shop: coche
 ---

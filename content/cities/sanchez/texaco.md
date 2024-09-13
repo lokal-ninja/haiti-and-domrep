@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /sanchez/texaco/
-shop: Lebensmittel
+shop: comodidad
 ---

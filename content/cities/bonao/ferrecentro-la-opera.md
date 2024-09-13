@@ -1,5 +1,5 @@
 ---
 title: "Ferrecentro La Opera"
 url: /bonao/ferrecentro-la-opera/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

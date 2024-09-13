@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Usados Ovaliza"
 url: /santiago/repuestos-usados-ovaliza/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Real"
 url: /villa-altagracia/repuestos-real/
-shop: Autoteile
+shop: piezas de automóviles
 ---

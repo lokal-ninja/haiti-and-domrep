@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Maderera Frank"
 url: /boca-chica/ferreteria-maderera-frank/
-shop: Möbel
+shop: muebles
 ---

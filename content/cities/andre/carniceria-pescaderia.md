@@ -1,5 +1,5 @@
 ---
 title: "Carniceria Pescaderia"
 url: /andre/carniceria-pescaderia/
-shop: Metzgerei
+shop: carnicero
 ---

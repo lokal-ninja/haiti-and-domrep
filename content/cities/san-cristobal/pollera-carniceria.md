@@ -1,5 +1,5 @@
 ---
 title: "Pollera Carniceria"
 url: /san-cristobal/pollera-carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

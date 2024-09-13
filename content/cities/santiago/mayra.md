@@ -1,5 +1,5 @@
 ---
 title: "Mayra"
 url: /santiago/mayra/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Surtidora Los Pitufos"
 url: /santiago/surtidora-los-pitufos/
-shop: Allgemein
+shop: general
 ---

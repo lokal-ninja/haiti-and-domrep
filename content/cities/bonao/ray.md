@@ -1,5 +1,5 @@
 ---
 title: "Ray"
 url: /bonao/ray/
-shop: Allgemein
+shop: general
 ---

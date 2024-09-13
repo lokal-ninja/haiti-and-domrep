@@ -1,5 +1,5 @@
 ---
 title: "Servicios Rivera"
 url: /andre/servicios-rivera/
-shop: Allgemein
+shop: general
 ---

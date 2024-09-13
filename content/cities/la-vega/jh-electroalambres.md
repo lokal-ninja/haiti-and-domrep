@@ -1,5 +1,5 @@
 ---
 title: "JH Electroalambres"
 url: /la-vega/jh-electroalambres/
-shop: Eisenwaren
+shop: hardware
 ---

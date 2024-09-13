@@ -1,5 +1,5 @@
 ---
 title: "Chikos"
 url: /santiago/chikos/
-shop: Allgemein
+shop: general
 ---

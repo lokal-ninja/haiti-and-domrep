@@ -1,5 +1,5 @@
 ---
 title: "UniRefri"
 url: /santiago/unirefri/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto parts"
 url: /route-dattes/auto-parts/
-shop: Reifen
+shop: neumáticos
 ---

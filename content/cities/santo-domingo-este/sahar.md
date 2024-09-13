@@ -1,5 +1,5 @@
 ---
 title: "Sahar"
 url: /santo-domingo-este/sahar/
-shop: Friseur
+shop: peluquería
 ---

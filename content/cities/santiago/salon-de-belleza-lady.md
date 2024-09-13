@@ -1,5 +1,5 @@
 ---
 title: "Salon de Belleza Lady"
 url: /santiago/salon-de-belleza-lady/
-shop: Kosmetik
+shop: cosméticos
 ---

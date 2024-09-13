@@ -1,5 +1,5 @@
 ---
 title: "El Negrito"
 url: /santiago/el-negrito/
-shop: Autohaus
+shop: coche
 ---

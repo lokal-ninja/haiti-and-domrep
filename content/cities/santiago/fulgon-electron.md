@@ -1,5 +1,5 @@
 ---
 title: "Fulgón Electron"
 url: /santiago/fulgon-electron/
-shop: Allgemein
+shop: general
 ---

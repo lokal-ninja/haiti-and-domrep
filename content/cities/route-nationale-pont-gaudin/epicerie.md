@@ -1,5 +1,5 @@
 ---
 title: "Epicerie"
 url: /route-nationale-pont-gaudin/epicerie/
-shop: Lebensmittel
+shop: comodidad
 ---

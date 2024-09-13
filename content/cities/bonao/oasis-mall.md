@@ -1,5 +1,5 @@
 ---
 title: "Oasis Mall"
 url: /bonao/oasis-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

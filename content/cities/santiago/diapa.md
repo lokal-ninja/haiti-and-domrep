@@ -1,5 +1,5 @@
 ---
 title: "Diapa"
 url: /santiago/diapa/
-shop: Schreibwaren
+shop: material de oficina
 ---

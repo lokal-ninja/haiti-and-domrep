@@ -1,5 +1,5 @@
 ---
 title: "Casa Consuelo"
 url: /santo-domingo/casa-consuelo/
-shop: Allgemein
+shop: general
 ---

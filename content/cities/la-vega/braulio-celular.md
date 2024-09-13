@@ -1,5 +1,5 @@
 ---
 title: "Braulio Celular"
 url: /la-vega/braulio-celular/
-shop: Handy
+shop: teléfono móvil
 ---

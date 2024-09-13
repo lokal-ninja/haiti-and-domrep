@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos Ruben"
 url: /campo-lindo/auto-repuestos-ruben/
-shop: Autoteile
+shop: piezas de automóviles
 ---

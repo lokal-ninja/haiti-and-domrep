@@ -1,5 +1,5 @@
 ---
 title: "Auto Cool"
 url: /santo-domingo/auto-cool/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

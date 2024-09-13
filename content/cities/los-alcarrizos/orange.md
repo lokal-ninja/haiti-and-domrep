@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /los-alcarrizos/orange/
-shop: Handy
+shop: teléfono móvil
 ---

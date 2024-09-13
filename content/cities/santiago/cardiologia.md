@@ -1,5 +1,5 @@
 ---
 title: "Cardiologia"
 url: /santiago/cardiologia/
-shop: Allgemein
+shop: general
 ---

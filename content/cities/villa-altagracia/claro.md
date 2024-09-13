@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /villa-altagracia/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /bonao/yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marisol Variedades"
 url: /san-cristobal/marisol-variedades/
-shop: Lebensmittel
+shop: comodidad
 ---

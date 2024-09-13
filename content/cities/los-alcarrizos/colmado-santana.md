@@ -1,5 +1,5 @@
 ---
 title: "Colmado Santana"
 url: /los-alcarrizos/colmado-santana/
-shop: Lebensmittel
+shop: comodidad
 ---

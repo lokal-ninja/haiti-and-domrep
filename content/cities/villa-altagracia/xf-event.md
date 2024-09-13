@@ -1,5 +1,5 @@
 ---
 title: "XF Event"
 url: /villa-altagracia/xf-event/
-shop: Allgemein
+shop: general
 ---

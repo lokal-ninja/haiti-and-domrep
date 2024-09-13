@@ -1,5 +1,5 @@
 ---
 title: "Turpial Airlines"
 url: /punta-cana/turpial-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

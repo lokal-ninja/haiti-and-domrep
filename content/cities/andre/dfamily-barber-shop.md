@@ -1,5 +1,5 @@
 ---
 title: "D'Family Barber Shop"
 url: /andre/dfamily-barber-shop/
-shop: Friseur
+shop: peluquería
 ---

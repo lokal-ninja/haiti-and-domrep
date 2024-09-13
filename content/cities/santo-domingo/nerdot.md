@@ -1,5 +1,5 @@
 ---
 title: "Nerdot"
 url: /santo-domingo/nerdot/
-shop: Computer
+shop: ordenador
 ---

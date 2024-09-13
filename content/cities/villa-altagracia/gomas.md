@@ -1,5 +1,5 @@
 ---
 title: "Gomas"
 url: /villa-altagracia/gomas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

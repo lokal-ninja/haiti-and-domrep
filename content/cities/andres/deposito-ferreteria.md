@@ -1,5 +1,5 @@
 ---
 title: "Deposito Ferreteria"
 url: /andres/deposito-ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

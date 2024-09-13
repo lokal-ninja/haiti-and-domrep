@@ -1,5 +1,5 @@
 ---
 title: "Inversiones Jánico"
 url: /janico/inversiones-janico/
-shop: Lebensmittel
+shop: comodidad
 ---

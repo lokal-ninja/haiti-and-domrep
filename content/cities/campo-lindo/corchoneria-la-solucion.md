@@ -1,5 +1,5 @@
 ---
 title: "Corchoneria la Solución"
 url: /campo-lindo/corchoneria-la-solucion/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "shop ebeniste"
 url: /gonaives-parc-vincent/shop-ebeniste/
-shop: Eisenwaren
+shop: hardware
 ---

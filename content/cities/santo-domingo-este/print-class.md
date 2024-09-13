@@ -1,5 +1,5 @@
 ---
 title: "Print Class"
 url: /santo-domingo-este/print-class/
-shop: Kopieren
+shop: copyshop
 ---

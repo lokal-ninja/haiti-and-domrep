@@ -1,5 +1,5 @@
 ---
 title: "Chance IDDI"
 url: /los-alcarrizos/chance-iddi/
-shop: Allgemein
+shop: general
 ---

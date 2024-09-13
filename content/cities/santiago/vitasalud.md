@@ -1,5 +1,5 @@
 ---
 title: "Vitasalud"
 url: /santiago/vitasalud/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

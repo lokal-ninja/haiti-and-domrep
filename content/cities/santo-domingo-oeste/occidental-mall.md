@@ -1,5 +1,5 @@
 ---
 title: "Occidental Mall"
 url: /santo-domingo-oeste/occidental-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

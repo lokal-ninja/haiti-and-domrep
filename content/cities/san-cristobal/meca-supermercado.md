@@ -1,5 +1,5 @@
 ---
 title: "Meca SuperMercado"
 url: /san-cristobal/meca-supermercado/
-shop: Lebensmittel
+shop: comodidad
 ---

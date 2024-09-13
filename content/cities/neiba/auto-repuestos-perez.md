@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos Pérez"
 url: /neiba/auto-repuestos-perez/
-shop: Autoteile
+shop: piezas de automóviles
 ---

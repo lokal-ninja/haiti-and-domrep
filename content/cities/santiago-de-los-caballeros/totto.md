@@ -1,5 +1,5 @@
 ---
 title: "Totto"
 url: /santiago-de-los-caballeros/totto/
-shop: Kleidung
+shop: ropa
 ---

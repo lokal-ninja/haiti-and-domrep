@@ -1,5 +1,5 @@
 ---
 title: "Copa Airlines"
 url: /santo-domingo/copa-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

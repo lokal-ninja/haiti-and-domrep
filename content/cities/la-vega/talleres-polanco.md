@@ -1,5 +1,5 @@
 ---
 title: "Talleres Polanco"
 url: /la-vega/talleres-polanco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

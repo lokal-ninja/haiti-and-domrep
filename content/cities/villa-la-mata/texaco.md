@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /villa-la-mata/texaco/
-shop: Lebensmittel
+shop: comodidad
 ---

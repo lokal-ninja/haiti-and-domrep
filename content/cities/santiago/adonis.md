@@ -1,5 +1,5 @@
 ---
 title: "Adonis"
 url: /santiago/adonis/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

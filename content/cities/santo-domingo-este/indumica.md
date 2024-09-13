@@ -1,5 +1,5 @@
 ---
 title: "Indumica"
 url: /santo-domingo-este/indumica/
-shop: Eisenwaren
+shop: hardware
 ---

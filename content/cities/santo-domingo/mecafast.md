@@ -1,5 +1,5 @@
 ---
 title: "Mecafast"
 url: /santo-domingo/mecafast/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D' Morena Pacas"
 url: /los-alcarrizos/d-morena-pacas/
-shop: Kleidung
+shop: ropa
 ---

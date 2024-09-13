@@ -1,5 +1,5 @@
 ---
 title: "Taller Propero"
 url: /la-canela/taller-propero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colmado Arias"
 url: /san-cristobal/colmado-arias/
-shop: Lebensmittel
+shop: comodidad
 ---

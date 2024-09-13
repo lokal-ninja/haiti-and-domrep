@@ -1,5 +1,5 @@
 ---
 title: "Presidente"
 url: /santiago/presidente/
-shop: Lotterie
+shop: lotería
 ---

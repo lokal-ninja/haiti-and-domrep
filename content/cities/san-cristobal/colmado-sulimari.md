@@ -1,5 +1,5 @@
 ---
 title: "Colmado Sulimari"
 url: /san-cristobal/colmado-sulimari/
-shop: Tiere
+shop: mascotas
 ---

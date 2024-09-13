@@ -1,5 +1,5 @@
 ---
 title: "Garage"
 url: /route-dattes/garage/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

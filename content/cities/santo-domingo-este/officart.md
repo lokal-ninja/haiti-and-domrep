@@ -1,5 +1,5 @@
 ---
 title: "Officart"
 url: /santo-domingo-este/officart/
-shop: Schreibwaren
+shop: material de oficina
 ---

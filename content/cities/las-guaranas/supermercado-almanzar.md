@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Almánzar"
 url: /las-guaranas/supermercado-almanzar/
-shop: Supermarkt
+shop: supermercado
 ---

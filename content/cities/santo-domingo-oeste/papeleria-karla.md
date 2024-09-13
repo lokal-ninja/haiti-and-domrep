@@ -1,5 +1,5 @@
 ---
 title: "Papeleria Karla"
 url: /santo-domingo-oeste/papeleria-karla/
-shop: Schreibwaren
+shop: material de oficina
 ---

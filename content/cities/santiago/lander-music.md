@@ -1,5 +1,5 @@
 ---
 title: "Lander Music"
 url: /santiago/lander-music/
-shop: Musik
+shop: música
 ---

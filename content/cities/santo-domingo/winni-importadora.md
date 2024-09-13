@@ -1,5 +1,5 @@
 ---
 title: "Winni Importadora"
 url: /santo-domingo/winni-importadora/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Agua Riazul"
 url: /santo-domingo-este/agua-riazul/
-shop: Wasser
+shop: agua
 ---

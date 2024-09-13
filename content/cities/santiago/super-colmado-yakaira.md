@@ -1,5 +1,5 @@
 ---
 title: "Super Colmado Yakaira"
 url: /santiago/super-colmado-yakaira/
-shop: Kiosk
+shop: quiosco
 ---

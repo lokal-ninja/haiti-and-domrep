@@ -1,5 +1,5 @@
 ---
 title: "Centro de Servicios AA"
 url: /santo-domingo/centro-de-servicios-aa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

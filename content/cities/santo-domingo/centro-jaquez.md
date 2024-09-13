@@ -1,5 +1,5 @@
 ---
 title: "Centro Jaquez"
 url: /santo-domingo/centro-jaquez/
-shop: Autoteile
+shop: piezas de automóviles
 ---

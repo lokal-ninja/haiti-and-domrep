@@ -1,5 +1,5 @@
 ---
 title: "Electro Lama"
 url: /santiago/electro-lama/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SH Import"
 url: /santiago/sh-import/
-shop: Allgemein
+shop: general
 ---

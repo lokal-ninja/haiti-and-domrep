@@ -1,5 +1,5 @@
 ---
 title: "ketura depot gazeux"
 url: /jacmel/ketura-depot-gazeux/
-shop: Getränke
+shop: bebidas
 ---

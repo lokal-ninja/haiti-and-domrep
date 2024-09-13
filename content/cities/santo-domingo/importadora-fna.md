@@ -1,5 +1,5 @@
 ---
 title: "Importadora FNA"
 url: /santo-domingo/importadora-fna/
-shop: Allgemein
+shop: general
 ---

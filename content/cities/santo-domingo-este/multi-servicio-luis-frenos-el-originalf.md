@@ -1,5 +1,5 @@
 ---
 title: "Multi-Servicio Luis Frenos El Originalf"
 url: /santo-domingo-este/multi-servicio-luis-frenos-el-originalf/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

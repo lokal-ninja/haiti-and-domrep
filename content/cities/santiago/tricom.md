@@ -1,5 +1,5 @@
 ---
 title: "Tricom"
 url: /santiago/tricom/
-shop: Handy
+shop: teléfono móvil
 ---

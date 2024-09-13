@@ -1,5 +1,5 @@
 ---
 title: "Ultra"
 url: /santiago/ultra/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

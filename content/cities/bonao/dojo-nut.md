@@ -1,5 +1,5 @@
 ---
 title: "Dojo Nut"
 url: /bonao/dojo-nut/
-shop: Allgemein
+shop: general
 ---

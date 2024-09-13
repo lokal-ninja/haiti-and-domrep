@@ -1,5 +1,5 @@
 ---
 title: "Missis Fashion"
 url: /san-cristobal/missis-fashion/
-shop: Kleidung
+shop: ropa
 ---

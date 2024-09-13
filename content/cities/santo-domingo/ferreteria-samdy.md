@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria Samdy"
 url: /santo-domingo/ferreteria-samdy/
-shop: Eisenwaren
+shop: hardware
 ---

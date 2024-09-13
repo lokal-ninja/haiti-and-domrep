@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /barahona/total/
-shop: Lebensmittel
+shop: comodidad
 ---

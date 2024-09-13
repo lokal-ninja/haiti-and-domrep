@@ -1,5 +1,5 @@
 ---
 title: "Panadería Villar Hermanos"
 url: /santo-domingo/panaderia-villar-hermanos/
-shop: Bäckerei
+shop: panadería
 ---

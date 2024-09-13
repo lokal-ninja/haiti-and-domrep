@@ -1,5 +1,5 @@
 ---
 title: "Estilo Decoraciones"
 url: /santo-domingo-este/estilo-decoraciones/
-shop: Raumausstattung
+shop: decoración interior
 ---

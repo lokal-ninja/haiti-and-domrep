@@ -1,5 +1,5 @@
 ---
 title: "Yang Ka Import"
 url: /santo-domingo/yang-ka-import/
-shop: Allgemein
+shop: general
 ---

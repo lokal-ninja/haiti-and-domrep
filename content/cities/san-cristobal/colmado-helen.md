@@ -1,5 +1,5 @@
 ---
 title: "Colmado Helen"
 url: /san-cristobal/colmado-helen/
-shop: Lebensmittel
+shop: comodidad
 ---

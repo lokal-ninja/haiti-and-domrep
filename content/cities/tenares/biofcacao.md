@@ -1,5 +1,5 @@
 ---
 title: "biofcacao"
 url: /tenares/biofcacao/
-shop: Supermarkt
+shop: supermercado
 ---

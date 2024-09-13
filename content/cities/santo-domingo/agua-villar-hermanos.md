@@ -1,5 +1,5 @@
 ---
 title: "Agua Villar Hermanos"
 url: /santo-domingo/agua-villar-hermanos/
-shop: Wasser
+shop: agua
 ---

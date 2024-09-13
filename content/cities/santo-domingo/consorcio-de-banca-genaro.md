@@ -1,5 +1,5 @@
 ---
 title: "Consorcio de Banca Genaro"
 url: /santo-domingo/consorcio-de-banca-genaro/
-shop: Lotterie
+shop: lotería
 ---

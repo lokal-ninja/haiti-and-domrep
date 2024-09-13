@@ -1,5 +1,5 @@
 ---
 title: "Banco Los Cibao"
 url: /bonao/banco-los-cibao/
-shop: Lotterie
+shop: lotería
 ---

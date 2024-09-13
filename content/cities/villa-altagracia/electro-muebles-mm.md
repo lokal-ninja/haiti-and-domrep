@@ -1,5 +1,5 @@
 ---
 title: "Electro Muebles MM"
 url: /villa-altagracia/electro-muebles-mm/
-shop: Möbel
+shop: muebles
 ---

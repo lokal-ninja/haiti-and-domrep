@@ -1,5 +1,5 @@
 ---
 title: "Travel Wise"
 url: /santo-domingo/travel-wise/
-shop: Reisebüro
+shop: agencia de viajes
 ---

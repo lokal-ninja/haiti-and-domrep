@@ -1,5 +1,5 @@
 ---
 title: "Proximamente"
 url: /santo-domingo/proximamente/
-shop: Friseur
+shop: peluquería
 ---

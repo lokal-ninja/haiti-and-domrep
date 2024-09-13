@@ -1,5 +1,5 @@
 ---
 title: "Univers paterie"
 url: /route-nationale-descahos/univers-paterie/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Banca Ravel Sport"
 url: /villa-altagracia/banca-ravel-sport/
-shop: Lotterie
+shop: lotería
 ---

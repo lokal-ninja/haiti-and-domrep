@@ -1,5 +1,5 @@
 ---
 title: "Travel Net"
 url: /santo-domingo/travel-net/
-shop: Reisebüro
+shop: agencia de viajes
 ---

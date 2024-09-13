@@ -1,5 +1,5 @@
 ---
 title: "D'Samira Centro de Belleza"
 url: /andre/dsamira-centro-de-belleza/
-shop: Kosmetik
+shop: cosméticos
 ---

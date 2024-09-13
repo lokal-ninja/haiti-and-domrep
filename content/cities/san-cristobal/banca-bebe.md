@@ -1,5 +1,5 @@
 ---
 title: "Banca Bebe"
 url: /san-cristobal/banca-bebe/
-shop: Lotterie
+shop: lotería
 ---

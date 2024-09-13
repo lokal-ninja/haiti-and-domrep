@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuesto Rony"
 url: /santiago/auto-repuesto-rony/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

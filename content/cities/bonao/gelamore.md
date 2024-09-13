@@ -1,5 +1,5 @@
 ---
 title: "Gelamore"
 url: /bonao/gelamore/
-shop: Allgemein
+shop: general
 ---

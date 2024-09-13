@@ -1,5 +1,5 @@
 ---
 title: "El Nacional"
 url: /santo-domingo/el-nacional/
-shop: Supermarkt
+shop: supermercado
 ---

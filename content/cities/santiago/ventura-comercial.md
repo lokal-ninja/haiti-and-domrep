@@ -1,5 +1,5 @@
 ---
 title: "Ventura Comercial"
 url: /santiago/ventura-comercial/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Banca King"
 url: /santiago/banca-king-padre-las-casas/
-shop: Lotterie
+shop: lotería
 ---

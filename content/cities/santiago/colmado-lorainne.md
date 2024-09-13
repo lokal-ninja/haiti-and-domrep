@@ -1,5 +1,5 @@
 ---
 title: "Colmado Lorainne"
 url: /santiago/colmado-lorainne/
-shop: Lebensmittel
+shop: comodidad
 ---

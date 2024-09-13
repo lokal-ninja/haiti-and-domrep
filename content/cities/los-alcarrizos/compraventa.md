@@ -1,5 +1,5 @@
 ---
 title: "Compraventa"
 url: /los-alcarrizos/compraventa/
-shop: Leiher
+shop: prestamista
 ---

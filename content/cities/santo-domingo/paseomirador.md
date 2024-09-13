@@ -1,5 +1,5 @@
 ---
 title: "PaseoMirador"
 url: /santo-domingo/paseomirador/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

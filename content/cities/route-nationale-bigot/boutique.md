@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /route-nationale-bigot/boutique/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loteka Te Toca"
 url: /santiago/loteka-te-toca-av-yapur-dumit/
-shop: Lotterie
+shop: lotería
 ---

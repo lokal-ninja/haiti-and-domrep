@@ -1,5 +1,5 @@
 ---
 title: "D'Glamour"
 url: /la-vega/dglamour/
-shop: Kleidung
+shop: ropa
 ---

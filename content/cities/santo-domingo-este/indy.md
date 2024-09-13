@@ -1,5 +1,5 @@
 ---
 title: "Indy"
 url: /santo-domingo-este/indy/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobile Tronics Auto Adornos"
 url: /santo-domingo/mobile-tronics-auto-adornos/
-shop: Allgemein
+shop: general
 ---

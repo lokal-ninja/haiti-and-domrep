@@ -1,5 +1,5 @@
 ---
 title: "Henry Peluqueria"
 url: /santo-domingo/henry-peluqueria/
-shop: Friseur
+shop: peluquería
 ---

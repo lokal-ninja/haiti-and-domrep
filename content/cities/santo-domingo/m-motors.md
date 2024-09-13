@@ -1,5 +1,5 @@
 ---
 title: "M Motors"
 url: /santo-domingo/m-motors/
-shop: Autohaus
+shop: coche
 ---

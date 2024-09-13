@@ -1,5 +1,5 @@
 ---
 title: "au bon prix"
 url: /jacmel/au-bon-prix/
-shop: Eisenwaren
+shop: hardware
 ---

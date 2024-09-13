@@ -1,5 +1,5 @@
 ---
 title: "Taveras"
 url: /santo-domingo/taveras/
-shop: Schreibwaren
+shop: material de oficina
 ---

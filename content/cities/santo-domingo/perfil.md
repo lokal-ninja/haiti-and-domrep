@@ -1,5 +1,5 @@
 ---
 title: "Perfil"
 url: /santo-domingo/perfil/
-shop: Kosmetik
+shop: cosméticos
 ---

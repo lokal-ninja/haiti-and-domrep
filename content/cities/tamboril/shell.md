@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /tamboril/shell/
-shop: Lebensmittel
+shop: comodidad
 ---

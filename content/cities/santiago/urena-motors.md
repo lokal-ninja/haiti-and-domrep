@@ -1,5 +1,5 @@
 ---
 title: "Urena Motors"
 url: /santiago/urena-motors/
-shop: Autohaus
+shop: coche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "rendez vous quincaillerie"
 url: /jacmel/rendez-vous-quincaillerie/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

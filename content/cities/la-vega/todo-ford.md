@@ -1,5 +1,5 @@
 ---
 title: "Todo Ford"
 url: /la-vega/todo-ford/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

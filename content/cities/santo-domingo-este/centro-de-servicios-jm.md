@@ -1,5 +1,5 @@
 ---
 title: "Centro de Servicios JM"
 url: /santo-domingo-este/centro-de-servicios-jm/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

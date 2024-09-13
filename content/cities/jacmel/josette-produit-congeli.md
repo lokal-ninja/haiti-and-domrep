@@ -1,5 +1,5 @@
 ---
 title: "josette produit congeli"
 url: /jacmel/josette-produit-congeli/
-shop: Küchen
+shop: cocina
 ---

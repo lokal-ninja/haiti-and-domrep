@@ -1,5 +1,5 @@
 ---
 title: "Jacqueline"
 url: /santiago/jacqueline/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jose Luis Auto Sonido"
 url: /la-vega/jose-luis-auto-sonido/
-shop: Allgemein
+shop: general
 ---

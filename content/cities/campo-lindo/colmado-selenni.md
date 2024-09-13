@@ -1,5 +1,5 @@
 ---
 title: "Colmado Selenni"
 url: /campo-lindo/colmado-selenni/
-shop: Allgemein
+shop: general
 ---

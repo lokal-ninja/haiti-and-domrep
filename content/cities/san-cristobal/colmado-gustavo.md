@@ -1,5 +1,5 @@
 ---
 title: "Colmado Gustavo"
 url: /san-cristobal/colmado-gustavo/
-shop: Lebensmittel
+shop: comodidad
 ---

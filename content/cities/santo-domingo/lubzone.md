@@ -1,5 +1,5 @@
 ---
 title: "LubZone"
 url: /santo-domingo/lubzone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gift Shop RaiSky"
 url: /bavaro/gift-shop-raisky/
-shop: Andenken
+shop: regalo
 ---

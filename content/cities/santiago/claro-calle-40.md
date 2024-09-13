@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /santiago/claro-calle-40/
-shop: Handy
+shop: teléfono móvil
 ---

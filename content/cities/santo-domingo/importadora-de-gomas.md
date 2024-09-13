@@ -1,5 +1,5 @@
 ---
 title: "Importadora de Gomas"
 url: /santo-domingo/importadora-de-gomas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lubriauto"
 url: /santo-domingo-este/lubriauto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /santo-domingo-oeste/claro-calle-santa-ana/
-shop: Handy
+shop: teléfono móvil
 ---

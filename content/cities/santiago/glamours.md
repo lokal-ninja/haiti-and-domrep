@@ -1,5 +1,5 @@
 ---
 title: "Glamours"
 url: /santiago/glamours/
-shop: Modehaus
+shop: tienda
 ---

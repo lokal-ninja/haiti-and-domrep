@@ -1,5 +1,5 @@
 ---
 title: "Laser Airlines"
 url: /santo-domingo/laser-airlines-calle-manuel-de-jesus-troncoso/
-shop: Reisebüro
+shop: agencia de viajes
 ---

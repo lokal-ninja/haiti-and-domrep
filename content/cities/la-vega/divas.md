@@ -1,5 +1,5 @@
 ---
 title: "Divas"
 url: /la-vega/divas/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Monumento del Oro"
 url: /santiago/el-monumento-del-oro/
-shop: Schmuck
+shop: joyería
 ---

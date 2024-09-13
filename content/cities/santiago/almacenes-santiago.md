@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Santiago"
 url: /santiago/almacenes-santiago/
-shop: Kleidung
+shop: ropa
 ---

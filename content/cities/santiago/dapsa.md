@@ -1,5 +1,5 @@
 ---
 title: "Dapsa"
 url: /santiago/dapsa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miguel Sport"
 url: /santo-domingo/miguel-sport/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

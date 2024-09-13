@@ -1,5 +1,5 @@
 ---
 title: "Colmado Yari"
 url: /campo-lindo/colmado-yari/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Star Sport"
 url: /santiago-de-los-caballeros/star-sport/
-shop: Lotterie
+shop: lotería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D'Varcon Peluqueria"
 url: /san-cristobal/dvarcon-peluqueria/
-shop: Friseur
+shop: peluquería
 ---

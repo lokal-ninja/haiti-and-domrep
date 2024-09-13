@@ -1,5 +1,5 @@
 ---
 title: "La Casa Dominicana"
 url: /santiago/la-casa-dominicana/
-shop: Allgemein
+shop: general
 ---

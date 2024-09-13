@@ -1,5 +1,5 @@
 ---
 title: "Banca"
 url: /santo-domingo/banca/
-shop: Lotterie
+shop: lotería
 ---

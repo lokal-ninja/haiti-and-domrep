@@ -1,5 +1,5 @@
 ---
 title: "JIC Color"
 url: /bonao/jic-color/
-shop: Allgemein
+shop: general
 ---

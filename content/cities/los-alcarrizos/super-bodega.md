@@ -1,5 +1,5 @@
 ---
 title: "Super Bodega"
 url: /los-alcarrizos/super-bodega/
-shop: Allgemein
+shop: general
 ---

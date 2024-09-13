@@ -1,5 +1,5 @@
 ---
 title: "Rey"
 url: /san-cristobal/rey/
-shop: Supermarkt
+shop: supermercado
 ---

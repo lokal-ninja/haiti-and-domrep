@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos y Suspensiones Paredes"
 url: /santo-domingo-este/auto-repuestos-y-suspensiones-paredes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galeria 360"
 url: /santo-domingo/galeria-360/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

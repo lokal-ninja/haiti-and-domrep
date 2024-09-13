@@ -1,5 +1,5 @@
 ---
 title: "GAMESTORE.W"
 url: /higuey/gamestore-w/
-shop: Videospiele
+shop: videojuegos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curiosite"
 url: /avenues-leon-legros/curiosite/
-shop: Lebensmittel
+shop: comodidad
 ---

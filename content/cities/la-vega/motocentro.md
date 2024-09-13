@@ -1,5 +1,5 @@
 ---
 title: "Motocentro"
 url: /la-vega/motocentro/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sergiza"
 url: /san-cristobal/sergiza/
-shop: Autohaus
+shop: coche
 ---

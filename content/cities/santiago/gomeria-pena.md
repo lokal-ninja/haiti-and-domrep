@@ -1,5 +1,5 @@
 ---
 title: "Gomeria peña"
 url: /santiago/gomeria-pena/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

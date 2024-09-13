@@ -1,5 +1,5 @@
 ---
 title: "Polifacetien"
 url: /san-cristobal/polifacetien/
-shop: Kleidung
+shop: ropa
 ---

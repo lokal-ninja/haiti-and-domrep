@@ -1,5 +1,5 @@
 ---
 title: "Embutidora Baez"
 url: /villa-altagracia/embutidora-baez/
-shop: Allgemein
+shop: general
 ---

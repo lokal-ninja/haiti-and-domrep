@@ -1,5 +1,5 @@
 ---
 title: "Jabel Muebles"
 url: /campo-lindo/jabel-muebles/
-shop: Möbel
+shop: muebles
 ---

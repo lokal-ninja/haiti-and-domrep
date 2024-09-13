@@ -1,5 +1,5 @@
 ---
 title: "Ikea"
 url: /santiago/ikea/
-shop: Warenhaus
+shop: grandes almacenes
 ---

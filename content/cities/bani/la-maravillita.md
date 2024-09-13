@@ -1,5 +1,5 @@
 ---
 title: "La Maravillita"
 url: /bani/la-maravillita/
-shop: Dorfladen
+shop: tienda rural
 ---

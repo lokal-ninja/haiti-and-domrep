@@ -1,5 +1,5 @@
 ---
 title: "D' Alexandra"
 url: /santo-domingo-este/d-alexandra/
-shop: Kleidung
+shop: ropa
 ---

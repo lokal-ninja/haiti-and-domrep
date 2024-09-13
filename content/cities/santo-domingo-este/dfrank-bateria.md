@@ -1,5 +1,5 @@
 ---
 title: "D'Frank Bateria"
 url: /santo-domingo-este/dfrank-bateria/
-shop: Autoteile
+shop: piezas de automóviles
 ---

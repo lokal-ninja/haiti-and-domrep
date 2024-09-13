@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /los-alcarrizos/claro-calle-duarte/
-shop: Handy
+shop: teléfono móvil
 ---

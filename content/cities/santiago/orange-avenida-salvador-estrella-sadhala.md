@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /santiago/orange-avenida-salvador-estrella-sadhala/
-shop: Handy
+shop: teléfono móvil
 ---

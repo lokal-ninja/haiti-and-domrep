@@ -1,5 +1,5 @@
 ---
 title: "Repuesto Castillo (Guaco)"
 url: /la-vega/repuesto-castillo-guaco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

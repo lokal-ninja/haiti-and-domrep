@@ -1,5 +1,5 @@
 ---
 title: "Shop Tailleur"
 url: /marchand-dessalines/shop-tailleur/
-shop: Schneiderei
+shop: sastre
 ---

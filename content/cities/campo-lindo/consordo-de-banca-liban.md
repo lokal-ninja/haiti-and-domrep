@@ -1,5 +1,5 @@
 ---
 title: "Consordo de Banca Liban"
 url: /campo-lindo/consordo-de-banca-liban/
-shop: Lotterie
+shop: lotería
 ---

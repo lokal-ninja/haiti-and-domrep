@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /el-seibo/total/
-shop: Lebensmittel
+shop: comodidad
 ---

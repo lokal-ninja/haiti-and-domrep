@@ -1,5 +1,5 @@
 ---
 title: "The Marvoli"
 url: /santiago/the-marvoli/
-shop: Allgemein
+shop: general
 ---

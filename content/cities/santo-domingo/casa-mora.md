@@ -1,5 +1,5 @@
 ---
 title: "Casa Mora"
 url: /santo-domingo/casa-mora/
-shop: Kleidung
+shop: ropa
 ---

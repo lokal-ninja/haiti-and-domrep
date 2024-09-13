@@ -1,5 +1,5 @@
 ---
 title: "Oriental del Sol"
 url: /santiago/oriental-del-sol/
-shop: Allgemein
+shop: general
 ---

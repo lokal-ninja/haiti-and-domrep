@@ -1,5 +1,5 @@
 ---
 title: "TejaCentro"
 url: /santiago/tejacentro/
-shop: Allgemein
+shop: general
 ---

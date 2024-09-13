@@ -1,5 +1,5 @@
 ---
 title: "Plaza Morichal"
 url: /santo-domingo/plaza-morichal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

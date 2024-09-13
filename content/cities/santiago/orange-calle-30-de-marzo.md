@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /santiago/orange-calle-30-de-marzo/
-shop: Handy
+shop: teléfono móvil
 ---

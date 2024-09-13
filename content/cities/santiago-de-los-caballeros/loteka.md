@@ -1,5 +1,5 @@
 ---
 title: "Loteka"
 url: /santiago-de-los-caballeros/loteka/
-shop: Lotterie
+shop: lotería
 ---

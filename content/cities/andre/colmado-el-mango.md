@@ -1,5 +1,5 @@
 ---
 title: "Colmado el Mango"
 url: /andre/colmado-el-mango/
-shop: Lebensmittel
+shop: comodidad
 ---

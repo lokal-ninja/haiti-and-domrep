@@ -1,5 +1,5 @@
 ---
 title: "Inova Centro"
 url: /santo-domingo/inova-centro/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

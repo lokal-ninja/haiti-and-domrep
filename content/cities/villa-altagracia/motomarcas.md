@@ -1,5 +1,5 @@
 ---
 title: "Motomarcas"
 url: /villa-altagracia/motomarcas/
-shop: Motorrad
+shop: motocicleta
 ---

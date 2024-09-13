@@ -1,5 +1,5 @@
 ---
 title: "Colmado Don Pedro"
 url: /san-cristobal/colmado-don-pedro/
-shop: Lebensmittel
+shop: comodidad
 ---

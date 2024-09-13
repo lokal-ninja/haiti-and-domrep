@@ -1,5 +1,5 @@
 ---
 title: "Mi Sueño"
 url: /santiago/mi-sueno/
-shop: Kleidung
+shop: ropa
 ---

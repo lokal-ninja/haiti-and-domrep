@@ -1,5 +1,5 @@
 ---
 title: "Bayahibe Fine Cigars"
 url: /dominicus/bayahibe-fine-cigars/
-shop: Tabak
+shop: tabaco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro Patxot"
 url: /santiago/centro-patxot/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

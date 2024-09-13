@@ -1,5 +1,5 @@
 ---
 title: "Yayo"
 url: /la-vega/yayo/
-shop: Gasflaschen
+shop: gas
 ---

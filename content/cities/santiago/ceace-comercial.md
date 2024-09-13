@@ -1,5 +1,5 @@
 ---
 title: "Ceace Comercial"
 url: /santiago/ceace-comercial/
-shop: Allgemein
+shop: general
 ---

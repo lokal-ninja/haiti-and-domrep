@@ -1,5 +1,5 @@
 ---
 title: "Colmado San Antonio"
 url: /andre/colmado-san-antonio/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altice"
 url: /azua-de-compostela/altice/
-shop: Handy
+shop: teléfono móvil
 ---

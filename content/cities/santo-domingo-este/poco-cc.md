@@ -1,5 +1,5 @@
 ---
 title: "Poco CC"
 url: /santo-domingo-este/poco-cc/
-shop: Autohaus
+shop: coche
 ---

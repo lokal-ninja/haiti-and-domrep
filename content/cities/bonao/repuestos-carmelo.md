@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Carmelo"
 url: /bonao/repuestos-carmelo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

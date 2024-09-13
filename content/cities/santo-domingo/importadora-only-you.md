@@ -1,5 +1,5 @@
 ---
 title: "Importadora Only You"
 url: /santo-domingo/importadora-only-you/
-shop: Allgemein
+shop: general
 ---

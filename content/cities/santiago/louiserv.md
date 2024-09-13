@@ -1,5 +1,5 @@
 ---
 title: "Louiserv"
 url: /santiago/louiserv/
-shop: Möbel
+shop: muebles
 ---

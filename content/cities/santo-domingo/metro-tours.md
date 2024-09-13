@@ -1,5 +1,5 @@
 ---
 title: "Metro Tours"
 url: /santo-domingo/metro-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

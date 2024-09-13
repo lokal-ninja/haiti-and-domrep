@@ -1,5 +1,5 @@
 ---
 title: "Eddy Pacas"
 url: /san-cristobal/eddy-pacas/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Torre Diagonale"
 url: /santo-domingo/torre-diagonale/
-shop: Wäscherei
+shop: lavandería
 ---

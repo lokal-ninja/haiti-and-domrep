@@ -1,5 +1,5 @@
 ---
 title: "Colmadon Monumental"
 url: /santiago/colmadon-monumental/
-shop: Allgemein
+shop: general
 ---

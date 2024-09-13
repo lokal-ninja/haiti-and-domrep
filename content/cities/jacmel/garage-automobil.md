@@ -1,5 +1,5 @@
 ---
 title: "garage automobil"
 url: /jacmel/garage-automobil/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

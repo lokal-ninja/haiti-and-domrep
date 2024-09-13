@@ -1,5 +1,5 @@
 ---
 title: "Rony Motors"
 url: /san-cristobal/rony-motors/
-shop: Motorrad
+shop: motocicleta
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leanfa Gomeria y Repuestos"
 url: /santiago/leanfa-gomeria-y-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

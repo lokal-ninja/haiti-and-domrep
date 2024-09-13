@@ -1,5 +1,5 @@
 ---
 title: "Megacentro"
 url: /santo-domingo-este/megacentro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

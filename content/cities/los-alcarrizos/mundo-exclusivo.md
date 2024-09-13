@@ -1,5 +1,5 @@
 ---
 title: "Mundo Exclusivo"
 url: /los-alcarrizos/mundo-exclusivo/
-shop: Kleidung
+shop: ropa
 ---

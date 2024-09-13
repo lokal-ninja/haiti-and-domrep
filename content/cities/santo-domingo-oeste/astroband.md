@@ -1,5 +1,5 @@
 ---
 title: "Astroband"
 url: /santo-domingo-oeste/astroband/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

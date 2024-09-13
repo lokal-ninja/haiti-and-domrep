@@ -1,5 +1,5 @@
 ---
 title: "Lauscar Trading"
 url: /santo-domingo/lauscar-trading/
-shop: Reifen
+shop: neumáticos
 ---

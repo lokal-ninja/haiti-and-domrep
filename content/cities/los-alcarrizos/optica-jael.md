@@ -1,5 +1,5 @@
 ---
 title: "Optica Jael"
 url: /los-alcarrizos/optica-jael/
-shop: Optiker
+shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colchoneria Ventura"
 url: /santo-domingo-este/colchoneria-ventura/
-shop: Allgemein
+shop: general
 ---

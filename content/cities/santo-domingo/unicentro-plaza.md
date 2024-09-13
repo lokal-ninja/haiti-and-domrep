@@ -1,5 +1,5 @@
 ---
 title: "Unicentro Plaza"
 url: /santo-domingo/unicentro-plaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

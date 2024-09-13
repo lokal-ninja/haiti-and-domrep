@@ -1,5 +1,5 @@
 ---
 title: "Repuesto Garina"
 url: /campo-lindo/repuesto-garina/
-shop: Autoteile
+shop: piezas de automóviles
 ---

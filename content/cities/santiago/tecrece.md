@@ -1,5 +1,5 @@
 ---
 title: "Tecrece"
 url: /santiago/tecrece/
-shop: Computer
+shop: ordenador
 ---

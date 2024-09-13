@@ -1,5 +1,5 @@
 ---
 title: "Beauty Salon"
 url: /boca-chica/beauty-salon/
-shop: Kosmetik
+shop: cosméticos
 ---

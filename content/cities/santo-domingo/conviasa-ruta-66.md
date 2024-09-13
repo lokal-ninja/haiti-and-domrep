@@ -1,5 +1,5 @@
 ---
 title: "Conviasa"
 url: /santo-domingo/conviasa-ruta-66/
-shop: Reisebüro
+shop: agencia de viajes
 ---

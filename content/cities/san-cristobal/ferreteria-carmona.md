@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Carmona"
 url: /san-cristobal/ferreteria-carmona/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Suerte"
 url: /santiago/la-suerte-avenida-las-carreras/
-shop: Lotterie
+shop: lotería
 ---

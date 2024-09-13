@@ -1,5 +1,5 @@
 ---
 title: "La Petra"
 url: /azua-de-compostela/la-petra/
-shop: Konditorei
+shop: pastelería
 ---

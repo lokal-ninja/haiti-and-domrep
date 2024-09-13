@@ -1,5 +1,5 @@
 ---
 title: "FLEX AUTO PARTS"
 url: /delmas/flex-auto-parts-delmas-33/
-shop: Autoteile
+shop: piezas de automóviles
 ---

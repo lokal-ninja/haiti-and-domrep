@@ -1,5 +1,5 @@
 ---
 title: "Gomero"
 url: /santo-domingo-este/gomero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

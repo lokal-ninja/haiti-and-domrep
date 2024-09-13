@@ -1,5 +1,5 @@
 ---
 title: "Sin Remordimiento"
 url: /santo-domingo-este/sin-remordimiento/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Cabrera"
 url: /santo-domingo-este/repuestos-cabrera/
-shop: Autoteile
+shop: piezas de automóviles
 ---

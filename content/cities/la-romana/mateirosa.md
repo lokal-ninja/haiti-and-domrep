@@ -1,5 +1,5 @@
 ---
 title: "Mateirosa"
 url: /la-romana/mateirosa/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

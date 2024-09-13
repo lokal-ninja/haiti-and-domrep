@@ -1,5 +1,5 @@
 ---
 title: "Luz"
 url: /san-cristobal/luz/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "epicerie"
 url: /jacmel/epicerie/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Memorial Quincaillerie"
 url: /jacmel/memorial-quincaillerie/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

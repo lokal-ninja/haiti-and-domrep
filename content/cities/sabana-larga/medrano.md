@@ -1,5 +1,5 @@
 ---
 title: "Medrano"
 url: /sabana-larga/medrano/
-shop: Allgemein
+shop: general
 ---

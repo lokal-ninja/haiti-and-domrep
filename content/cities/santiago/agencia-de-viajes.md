@@ -1,5 +1,5 @@
 ---
 title: "Agencia De Viajes"
 url: /santiago/agencia-de-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

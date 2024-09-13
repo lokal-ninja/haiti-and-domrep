@@ -1,5 +1,5 @@
 ---
 title: "AutoTech"
 url: /santo-domingo/autotech/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

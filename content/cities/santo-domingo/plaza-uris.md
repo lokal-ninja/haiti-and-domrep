@@ -1,5 +1,5 @@
 ---
 title: "Plaza Uris"
 url: /santo-domingo/plaza-uris/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

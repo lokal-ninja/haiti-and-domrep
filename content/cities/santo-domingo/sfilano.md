@@ -1,5 +1,5 @@
 ---
 title: "Sfilano"
 url: /santo-domingo/sfilano/
-shop: Kleidung
+shop: ropa
 ---

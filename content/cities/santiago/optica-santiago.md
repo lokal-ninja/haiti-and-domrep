@@ -1,5 +1,5 @@
 ---
 title: "Optica Santiago"
 url: /santiago/optica-santiago/
-shop: Optiker
+shop: óptico
 ---

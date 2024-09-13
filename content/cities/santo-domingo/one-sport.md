@@ -1,5 +1,5 @@
 ---
 title: "One Sport"
 url: /santo-domingo/one-sport/
-shop: Schneiderei
+shop: sastre
 ---

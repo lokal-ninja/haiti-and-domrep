@@ -1,5 +1,5 @@
 ---
 title: "Jardineria"
 url: /san-cristobal/jardineria/
-shop: Garten-Center
+shop: centro de jardinería
 ---

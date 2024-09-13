@@ -1,5 +1,5 @@
 ---
 title: "Garage"
 url: /avenues-leon-legros/garage/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

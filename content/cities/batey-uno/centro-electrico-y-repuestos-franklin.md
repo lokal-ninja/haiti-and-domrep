@@ -1,5 +1,5 @@
 ---
 title: "Centro Electrico Y Repuestos Franklin"
 url: /batey-uno/centro-electrico-y-repuestos-franklin/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

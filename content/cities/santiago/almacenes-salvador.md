@@ -1,5 +1,5 @@
 ---
 title: "Almacenes Salvador"
 url: /santiago/almacenes-salvador/
-shop: Warenhaus
+shop: grandes almacenes
 ---

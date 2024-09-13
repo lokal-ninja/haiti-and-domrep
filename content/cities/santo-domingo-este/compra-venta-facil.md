@@ -1,5 +1,5 @@
 ---
 title: "Compra Venta Facil"
 url: /santo-domingo-este/compra-venta-facil/
-shop: Leiher
+shop: prestamista
 ---

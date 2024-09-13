@@ -1,5 +1,5 @@
 ---
 title: "MINI Cooper"
 url: /santo-domingo/mini-cooper/
-shop: Autohaus
+shop: coche
 ---

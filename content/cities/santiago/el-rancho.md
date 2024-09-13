@@ -1,5 +1,5 @@
 ---
 title: "El Rancho"
 url: /santiago/el-rancho/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ventorilla Francheli"
 url: /san-cristobal/ventorilla-francheli/
-shop: Kiosk
+shop: quiosco
 ---

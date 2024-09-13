@@ -1,5 +1,5 @@
 ---
 title: "Vestidissima"
 url: /santiago/vestidissima/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Fria"
 url: /los-alcarrizos/super-fria/
-shop: Lebensmittel
+shop: comodidad
 ---

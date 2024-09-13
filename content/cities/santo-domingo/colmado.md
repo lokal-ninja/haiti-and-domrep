@@ -1,5 +1,5 @@
 ---
 title: "Colmado"
 url: /santo-domingo/colmado/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AMSA Autos"
 url: /santo-domingo-este/amsa-autos/
-shop: Autohaus
+shop: coche
 ---

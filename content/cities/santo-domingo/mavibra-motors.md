@@ -1,5 +1,5 @@
 ---
 title: "Mavibra Motors"
 url: /santo-domingo/mavibra-motors/
-shop: Autohaus
+shop: coche
 ---

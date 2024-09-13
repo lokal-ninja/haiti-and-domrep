@@ -1,5 +1,5 @@
 ---
 title: "Alberto Coladon"
 url: /santiago/alberto-coladon/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outlaw Barber Shop"
 url: /santo-domingo/outlaw-barber-shop/
-shop: Friseur
+shop: peluquería
 ---

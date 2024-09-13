@@ -1,5 +1,5 @@
 ---
 title: "Importadora"
 url: /san-cristobal/importadora/
-shop: Kramladen
+shop: tienda de variedades
 ---

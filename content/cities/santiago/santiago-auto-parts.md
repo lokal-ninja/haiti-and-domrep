@@ -1,5 +1,5 @@
 ---
 title: "Santiago Auto Parts"
 url: /santiago/santiago-auto-parts/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Memene Boutique"
 url: /marchand-dessalines/memene-boutique/
-shop: Modehaus
+shop: tienda
 ---

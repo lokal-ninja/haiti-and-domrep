@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /santiago/orange-av-nunez-de-cacerez/
-shop: Allgemein
+shop: general
 ---

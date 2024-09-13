@@ -1,5 +1,5 @@
 ---
 title: "Pacas Marleny"
 url: /san-cristobal/pacas-marleny/
-shop: Kleidung
+shop: ropa
 ---

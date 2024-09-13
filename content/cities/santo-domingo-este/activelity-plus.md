@@ -1,5 +1,5 @@
 ---
 title: "Activelity Plus"
 url: /santo-domingo-este/activelity-plus/
-shop: Kosmetik
+shop: cosméticos
 ---

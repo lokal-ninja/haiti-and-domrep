@@ -1,5 +1,5 @@
 ---
 title: "Arianna Repuestos"
 url: /andre/arianna-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

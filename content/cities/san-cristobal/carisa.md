@@ -1,5 +1,5 @@
 ---
 title: "Carisa"
 url: /san-cristobal/carisa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

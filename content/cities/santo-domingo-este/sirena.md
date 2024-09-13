@@ -1,5 +1,5 @@
 ---
 title: "Sirena"
 url: /santo-domingo-este/sirena/
-shop: Supermarkt
+shop: supermercado
 ---

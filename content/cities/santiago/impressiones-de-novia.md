@@ -1,5 +1,5 @@
 ---
 title: "Impressiones de Novia"
 url: /santiago/impressiones-de-novia/
-shop: Kleidung
+shop: ropa
 ---

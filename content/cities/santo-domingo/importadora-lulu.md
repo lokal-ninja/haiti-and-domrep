@@ -1,5 +1,5 @@
 ---
 title: "Importadora Lulu"
 url: /santo-domingo/importadora-lulu/
-shop: Allgemein
+shop: general
 ---

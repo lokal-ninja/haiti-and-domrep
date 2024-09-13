@@ -1,5 +1,5 @@
 ---
 title: "Rubia Salon"
 url: /san-cristobal/rubia-salon/
-shop: Friseur
+shop: peluquería
 ---

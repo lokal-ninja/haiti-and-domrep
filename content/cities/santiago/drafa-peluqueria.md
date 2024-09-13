@@ -1,5 +1,5 @@
 ---
 title: "D'Rafa Peluqueria"
 url: /santiago/drafa-peluqueria/
-shop: Kosmetik
+shop: cosméticos
 ---

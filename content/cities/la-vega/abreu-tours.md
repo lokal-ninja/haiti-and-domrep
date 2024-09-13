@@ -1,5 +1,5 @@
 ---
 title: "Abreu Tours"
 url: /la-vega/abreu-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

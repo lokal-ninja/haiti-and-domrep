@@ -1,5 +1,5 @@
 ---
 title: "Dispensario Medico"
 url: /san-cristobal/dispensario-medico/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

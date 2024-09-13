@@ -1,5 +1,5 @@
 ---
 title: "Variedades Ortiz"
 url: /villa-altagracia/variedades-ortiz/
-shop: Kleidung
+shop: ropa
 ---

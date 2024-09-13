@@ -1,5 +1,5 @@
 ---
 title: "Domyn Mall"
 url: /santiago/domyn-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda La Ganga"
 url: /san-cristobal/tienda-la-ganga/
-shop: Kleidung
+shop: ropa
 ---

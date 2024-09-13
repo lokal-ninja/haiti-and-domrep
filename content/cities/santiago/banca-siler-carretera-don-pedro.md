@@ -1,5 +1,5 @@
 ---
 title: "Banca Siler"
 url: /santiago/banca-siler-carretera-don-pedro/
-shop: Lotterie
+shop: lotería
 ---

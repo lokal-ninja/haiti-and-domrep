@@ -1,5 +1,5 @@
 ---
 title: "D’Elian Super Diagnóstico"
 url: /santo-domingo-este/delian-super-diagnostico/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

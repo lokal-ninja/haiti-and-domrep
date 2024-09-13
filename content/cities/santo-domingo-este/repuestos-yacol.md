@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Yacol"
 url: /santo-domingo-este/repuestos-yacol/
-shop: Autoteile
+shop: piezas de automóviles
 ---

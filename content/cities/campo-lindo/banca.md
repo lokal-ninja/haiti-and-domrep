@@ -1,5 +1,5 @@
 ---
 title: "Banca"
 url: /campo-lindo/banca/
-shop: Lotterie
+shop: lotería
 ---

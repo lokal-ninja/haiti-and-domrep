@@ -1,5 +1,5 @@
 ---
 title: "Super Colmado La Economia"
 url: /san-cristobal/super-colmado-la-economia/
-shop: Lebensmittel
+shop: comodidad
 ---

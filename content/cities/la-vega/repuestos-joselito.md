@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Joselito"
 url: /la-vega/repuestos-joselito/
-shop: Autoteile
+shop: piezas de automóviles
 ---

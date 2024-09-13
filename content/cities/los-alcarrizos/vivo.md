@@ -1,5 +1,5 @@
 ---
 title: "Vivo"
 url: /los-alcarrizos/vivo/
-shop: Handy
+shop: teléfono móvil
 ---

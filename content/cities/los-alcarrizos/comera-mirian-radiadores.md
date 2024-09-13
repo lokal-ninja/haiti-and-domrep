@@ -1,5 +1,5 @@
 ---
 title: "Comera Mirian Radiadores"
 url: /los-alcarrizos/comera-mirian-radiadores/
-shop: Autoteile
+shop: piezas de automóviles
 ---

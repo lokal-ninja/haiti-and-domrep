@@ -1,5 +1,5 @@
 ---
 title: "Viva"
 url: /santiago/viva-calle-restauracion/
-shop: Handy
+shop: teléfono móvil
 ---

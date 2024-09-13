@@ -1,5 +1,5 @@
 ---
 title: "Mini Market Express"
 url: /santiago/mini-market-express/
-shop: Lebensmittel
+shop: comodidad
 ---

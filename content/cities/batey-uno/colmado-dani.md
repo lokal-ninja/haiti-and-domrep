@@ -1,5 +1,5 @@
 ---
 title: "Colmado Dani"
 url: /batey-uno/colmado-dani/
-shop: Lebensmittel
+shop: comodidad
 ---

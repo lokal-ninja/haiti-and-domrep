@@ -1,5 +1,5 @@
 ---
 title: "Salon Rossely"
 url: /san-cristobal/salon-rossely/
-shop: Kosmetik
+shop: cosméticos
 ---

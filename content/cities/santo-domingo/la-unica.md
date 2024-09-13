@@ -1,5 +1,5 @@
 ---
 title: "La Unica"
 url: /santo-domingo/la-unica/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colmado Natividad"
 url: /san-cristobal/colmado-natividad/
-shop: Lebensmittel
+shop: comodidad
 ---

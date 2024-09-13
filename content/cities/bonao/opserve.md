@@ -1,5 +1,5 @@
 ---
 title: "Opserve"
 url: /bonao/opserve/
-shop: Allgemein
+shop: general
 ---

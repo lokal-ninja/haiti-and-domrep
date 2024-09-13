@@ -1,5 +1,5 @@
 ---
 title: "Ofimaster"
 url: /santo-domingo/ofimaster/
-shop: Kopieren
+shop: copyshop
 ---

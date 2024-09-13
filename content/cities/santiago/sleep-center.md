@@ -1,5 +1,5 @@
 ---
 title: "Sleep Center"
 url: /santiago/sleep-center/
-shop: Betten
+shop: cama
 ---

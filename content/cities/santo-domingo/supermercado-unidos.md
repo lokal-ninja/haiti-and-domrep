@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Unidos"
 url: /santo-domingo/supermercado-unidos/
-shop: Lebensmittel
+shop: comodidad
 ---

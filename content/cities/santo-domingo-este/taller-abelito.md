@@ -1,5 +1,5 @@
 ---
 title: "Taller Abelito"
 url: /santo-domingo-este/taller-abelito/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diamond Barber Shop"
 url: /santiago/diamond-barber-shop/
-shop: Friseur
+shop: peluquería
 ---

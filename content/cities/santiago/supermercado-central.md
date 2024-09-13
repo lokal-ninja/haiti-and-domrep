@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Central"
 url: /santiago/supermercado-central/
-shop: Supermarkt
+shop: supermercado
 ---

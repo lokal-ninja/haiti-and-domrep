@@ -1,5 +1,5 @@
 ---
 title: "Bendiciones De Parasio"
 url: /santo-domingo/bendiciones-de-parasio/
-shop: Lebensmittel
+shop: comodidad
 ---

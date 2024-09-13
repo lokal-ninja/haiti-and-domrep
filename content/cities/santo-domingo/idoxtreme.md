@@ -1,5 +1,5 @@
 ---
 title: "iDoXtreme"
 url: /santo-domingo/idoxtreme/
-shop: Computer
+shop: ordenador
 ---

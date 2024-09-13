@@ -1,5 +1,5 @@
 ---
 title: "Plaza Progreso Business Center"
 url: /santo-domingo/plaza-progreso-business-center/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

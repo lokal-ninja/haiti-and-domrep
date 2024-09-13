@@ -1,5 +1,5 @@
 ---
 title: "Viva"
 url: /santiago/viva/
-shop: Allgemein
+shop: general
 ---

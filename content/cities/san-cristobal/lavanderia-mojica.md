@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Mojica"
 url: /san-cristobal/lavanderia-mojica/
-shop: Wäscherei
+shop: lavandería
 ---

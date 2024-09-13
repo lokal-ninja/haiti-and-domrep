@@ -1,5 +1,5 @@
 ---
 title: "Ferreteria"
 url: /la-canela/ferreteria/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

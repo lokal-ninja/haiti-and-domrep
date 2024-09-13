@@ -1,5 +1,5 @@
 ---
 title: "Gresefu"
 url: /santo-domingo-este/gresefu/
-shop: Bestattungen
+shop: directores de funerarias
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Usados"
 url: /santiago/repuestos-usados/
-shop: Autoteile
+shop: piezas de automóviles
 ---

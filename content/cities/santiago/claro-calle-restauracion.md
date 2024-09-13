@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /santiago/claro-calle-restauracion/
-shop: Handy
+shop: teléfono móvil
 ---

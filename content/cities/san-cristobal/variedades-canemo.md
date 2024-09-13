@@ -1,5 +1,5 @@
 ---
 title: "Variedades Canemo"
 url: /san-cristobal/variedades-canemo/
-shop: Kleidung
+shop: ropa
 ---

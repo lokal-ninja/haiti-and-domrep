@@ -1,5 +1,5 @@
 ---
 title: "Vega Oferta"
 url: /la-vega/vega-oferta/
-shop: Allgemein
+shop: general
 ---

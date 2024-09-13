@@ -1,5 +1,5 @@
 ---
 title: "Colmado"
 url: /andre/colmado/
-shop: Lebensmittel
+shop: comodidad
 ---

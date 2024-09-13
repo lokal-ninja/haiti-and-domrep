@@ -1,5 +1,5 @@
 ---
 title: "GD Germany"
 url: /los-alcarrizos/gd-germany/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mini Market Andris"
 url: /villa-altagracia/mini-market-andris/
-shop: Lebensmittel
+shop: comodidad
 ---

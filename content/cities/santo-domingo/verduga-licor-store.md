@@ -1,5 +1,5 @@
 ---
 title: "Verduga Licor Store"
 url: /santo-domingo/verduga-licor-store/
-shop: Spirituosen
+shop: alcohol
 ---

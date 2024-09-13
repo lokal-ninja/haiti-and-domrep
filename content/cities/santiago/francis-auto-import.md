@@ -1,5 +1,5 @@
 ---
 title: "Francis Auto Import"
 url: /santiago/francis-auto-import/
-shop: Autohaus
+shop: coche
 ---

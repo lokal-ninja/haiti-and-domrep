@@ -1,5 +1,5 @@
 ---
 title: "Minimarked"
 url: /tenares/minimarked/
-shop: Supermarkt
+shop: supermercado
 ---

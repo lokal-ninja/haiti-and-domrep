@@ -1,5 +1,5 @@
 ---
 title: "Agua ASAM"
 url: /santo-domingo-este/agua-asam/
-shop: Wasser
+shop: agua
 ---

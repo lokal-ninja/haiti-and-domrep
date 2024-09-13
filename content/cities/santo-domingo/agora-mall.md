@@ -1,5 +1,5 @@
 ---
 title: "Agora Mall"
 url: /santo-domingo/agora-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

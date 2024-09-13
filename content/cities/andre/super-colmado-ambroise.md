@@ -1,5 +1,5 @@
 ---
 title: "Super Colmado Ambroise"
 url: /andre/super-colmado-ambroise/
-shop: Allgemein
+shop: general
 ---

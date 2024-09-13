@@ -1,5 +1,5 @@
 ---
 title: "FerreCentro Zama"
 url: /santo-domingo-este/ferrecentro-zama/
-shop: Eisenwaren
+shop: hardware
 ---

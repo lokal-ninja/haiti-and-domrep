@@ -1,5 +1,5 @@
 ---
 title: "Importadora Labalata"
 url: /santo-domingo/importadora-labalata/
-shop: Allgemein
+shop: general
 ---

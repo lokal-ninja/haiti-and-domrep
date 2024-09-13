@@ -1,5 +1,5 @@
 ---
 title: "Ciprianis"
 url: /santo-domingo/ciprianis/
-shop: Allgemein
+shop: general
 ---

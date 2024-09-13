@@ -1,5 +1,5 @@
 ---
 title: "Only Woman"
 url: /santo-domingo/only-woman/
-shop: Friseur
+shop: peluquería
 ---

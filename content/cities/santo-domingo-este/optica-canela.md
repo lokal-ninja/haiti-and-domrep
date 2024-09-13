@@ -1,5 +1,5 @@
 ---
 title: "Optica Canela"
 url: /santo-domingo-este/optica-canela/
-shop: Optiker
+shop: óptico
 ---

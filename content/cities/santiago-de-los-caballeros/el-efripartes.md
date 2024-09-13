@@ -1,5 +1,5 @@
 ---
 title: "El Efripartes"
 url: /santiago-de-los-caballeros/el-efripartes/
-shop: Allgemein
+shop: general
 ---

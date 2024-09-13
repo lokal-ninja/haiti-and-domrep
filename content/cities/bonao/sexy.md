@@ -1,5 +1,5 @@
 ---
 title: "Sexy"
 url: /bonao/sexy/
-shop: Erotik
+shop: erótico
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Joseph"
 url: /santiago/repuestos-joseph/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

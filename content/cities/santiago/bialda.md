@@ -1,5 +1,5 @@
 ---
 title: "Bialda"
 url: /santiago/bialda/
-shop: Kleidung
+shop: ropa
 ---

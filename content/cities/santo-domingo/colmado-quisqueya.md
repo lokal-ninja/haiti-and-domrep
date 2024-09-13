@@ -1,5 +1,5 @@
 ---
 title: "Colmado Quisqueya"
 url: /santo-domingo/colmado-quisqueya/
-shop: Lebensmittel
+shop: comodidad
 ---

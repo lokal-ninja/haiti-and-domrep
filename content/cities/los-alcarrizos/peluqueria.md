@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /los-alcarrizos/peluqueria/
-shop: Schreibwaren
+shop: material de oficina
 ---

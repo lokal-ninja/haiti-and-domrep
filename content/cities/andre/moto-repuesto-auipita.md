@@ -1,5 +1,5 @@
 ---
 title: "Moto Repuesto Auipita"
 url: /andre/moto-repuesto-auipita/
-shop: Autoteile
+shop: piezas de automóviles
 ---

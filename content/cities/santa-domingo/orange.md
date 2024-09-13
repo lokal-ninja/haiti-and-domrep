@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /santa-domingo/orange/
-shop: Handy
+shop: teléfono móvil
 ---

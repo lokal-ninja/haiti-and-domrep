@@ -1,5 +1,5 @@
 ---
 title: "Dry Cleaner"
 url: /santo-domingo/dry-cleaner/
-shop: Wäscherei
+shop: lavandería
 ---

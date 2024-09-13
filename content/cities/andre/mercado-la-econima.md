@@ -1,5 +1,5 @@
 ---
 title: "Mercado La Econima"
 url: /andre/mercado-la-econima/
-shop: Allgemein
+shop: general
 ---

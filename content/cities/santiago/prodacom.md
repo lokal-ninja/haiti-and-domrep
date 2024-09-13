@@ -1,5 +1,5 @@
 ---
 title: "Prodacom"
 url: /santiago/prodacom/
-shop: Computer
+shop: ordenador
 ---

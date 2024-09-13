@@ -1,5 +1,5 @@
 ---
 title: "TecnOffice"
 url: /la-vega/tecnoffice/
-shop: Elektronik
+shop: electrónica
 ---

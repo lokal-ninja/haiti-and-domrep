@@ -1,5 +1,5 @@
 ---
 title: "Tienda Silvia"
 url: /santo-domingo-oeste/tienda-silvia/
-shop: Allgemein
+shop: general
 ---

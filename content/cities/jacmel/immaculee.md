@@ -1,5 +1,5 @@
 ---
 title: "Immaculee"
 url: /jacmel/immaculee/
-shop: Kleidung
+shop: ropa
 ---

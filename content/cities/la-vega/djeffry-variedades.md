@@ -1,5 +1,5 @@
 ---
 title: "D'Jeffry Variedades"
 url: /la-vega/djeffry-variedades/
-shop: Allgemein
+shop: general
 ---

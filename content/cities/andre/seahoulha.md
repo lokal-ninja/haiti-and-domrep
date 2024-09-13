@@ -1,5 +1,5 @@
 ---
 title: "Seahoulha"
 url: /andre/seahoulha/
-shop: Allgemein
+shop: general
 ---

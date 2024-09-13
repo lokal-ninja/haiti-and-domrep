@@ -1,5 +1,5 @@
 ---
 title: "Gomicentro Express"
 url: /santiago-de-los-caballeros/gomicentro-express/
-shop: Reifen
+shop: neumáticos
 ---

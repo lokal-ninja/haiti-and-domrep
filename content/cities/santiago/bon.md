@@ -1,5 +1,5 @@
 ---
 title: "Bon"
 url: /santiago/bon/
-shop: Allgemein
+shop: general
 ---

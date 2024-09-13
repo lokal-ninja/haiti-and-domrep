@@ -1,5 +1,5 @@
 ---
 title: "D'More Joyería"
 url: /la-vega/dmore-joyeria/
-shop: Schmuck
+shop: joyería
 ---

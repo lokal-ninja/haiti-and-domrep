@@ -1,5 +1,5 @@
 ---
 title: "Compra-Venta NCP"
 url: /santiago/compra-venta-ncp/
-shop: Leiher
+shop: prestamista
 ---

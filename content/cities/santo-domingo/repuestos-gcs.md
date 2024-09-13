@@ -1,5 +1,5 @@
 ---
 title: "Repuestos GCS"
 url: /santo-domingo/repuestos-gcs/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

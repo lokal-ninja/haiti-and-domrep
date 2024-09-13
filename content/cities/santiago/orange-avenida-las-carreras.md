@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /santiago/orange-avenida-las-carreras/
-shop: Handy
+shop: teléfono móvil
 ---
