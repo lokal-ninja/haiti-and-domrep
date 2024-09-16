@@ -1,11 +1,11 @@
 id: 1022312963
-type: way
+type: node
 latitude: 18.49147
 longitude: -69.81782
 postcode: "11803"
 city: Santo Domingo Este
-street: "Autopista San Isidro"
-housenumber: 
-phone: "+809  245 7789"
+street: Autopista San Isidro
+housenumber: ""
+phone: +809  245 7789
 opening_hours: ""
-website: "https://laensenada.com/en/home-2-2/"
+website: https://laensenada.com/en/home-2-2/

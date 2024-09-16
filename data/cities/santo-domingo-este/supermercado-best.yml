@@ -1,11 +1,11 @@
 id: 999204916
-type: way
+type: node
 latitude: 18.50489
 longitude: -69.81619
 postcode: "11802"
 city: Santo Domingo este
-street: "Antonio Guzmán"
-housenumber: 
+street: Antonio Guzmán
+housenumber: ""
 phone: ""
-opening_hours: "Lu-Sa 08:00-20:30; Do 08:00-18:30"
+opening_hours: Lu-Sa 08:00-20:30; Do 08:00-18:30
 website: ""

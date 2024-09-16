@@ -1,11 +1,11 @@
 id: 174343340
-type: way
+type: node
 latitude: 18.48313
 longitude: -69.93873
 postcode: "10129"
 city: Santo Domingo
-street: "John F. Kennedy"
-housenumber: 
+street: John F. Kennedy
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.agora.com.do/"
+website: https://www.agora.com.do/

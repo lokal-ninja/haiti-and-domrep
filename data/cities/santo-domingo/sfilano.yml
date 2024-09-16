@@ -1,11 +1,11 @@
 id: 418199147
-type: way
+type: node
 latitude: 18.48116
 longitude: -69.92511
 postcode: "10122"
 city: Santo Domingo
-street: "Calle Luis Lembert"
-housenumber: 4
+street: Calle Luis Lembert
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.sfilano.com/"
+website: https://www.sfilano.com/

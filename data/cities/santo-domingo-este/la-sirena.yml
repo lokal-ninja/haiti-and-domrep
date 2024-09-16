@@ -1,11 +1,11 @@
 id: 183489224
-type: way
+type: node
 latitude: 18.50529
 longitude: -69.87337
 postcode: "11906"
 city: Santo Domingo Este
-street: "Avenida Venezuela"
-housenumber: 104
-phone: "+1 809 701 4444"
-opening_hours: "Lu-Sa 08:00-22:00; Do 09:00-22:00"
-website: "https://sirena.do/stores"
+street: Avenida Venezuela
+housenumber: "104"
+phone: +1 809 701 4444
+opening_hours: Lu-Sa 08:00-22:00; Do 09:00-22:00
+website: https://sirena.do/stores

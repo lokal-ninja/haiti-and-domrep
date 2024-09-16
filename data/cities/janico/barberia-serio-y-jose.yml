@@ -1,11 +1,11 @@
 id: 1196417987
-type: way
+type: node
 latitude: 19.3253
 longitude: -70.81731
 postcode: "51000"
 city: Jánico
-street: "Avenida Santiago"
-housenumber: 
+street: Avenida Santiago
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

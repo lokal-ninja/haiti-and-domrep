@@ -1,11 +1,11 @@
 id: 380650475
-type: way
+type: node
 latitude: 18.47
 longitude: -69.93563
 postcode: ""
 city: Santo Domingo
-street: "Calle Porfirio Herrera"
-housenumber: 21
+street: Calle Porfirio Herrera
+housenumber: "21"
 phone: "+18095444394"
 opening_hours: ""
 website: ""

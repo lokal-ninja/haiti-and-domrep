@@ -1,11 +1,11 @@
 id: 414293614
-type: way
+type: node
 latitude: 18.40475
 longitude: -70.10684
 postcode: ""
 city: San Cristóbal
-street: "Calle Bernardo Aliez"
-housenumber: 232
+street: Calle Bernardo Aliez
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

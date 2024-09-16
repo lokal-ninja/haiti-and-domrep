@@ -1,11 +1,11 @@
 id: 409591500
-type: way
+type: node
 latitude: 19.45495
 longitude: -70.7025
 postcode: ""
 city: Santiago
-street: "Calle San Luis"
-housenumber: 
+street: Calle San Luis
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

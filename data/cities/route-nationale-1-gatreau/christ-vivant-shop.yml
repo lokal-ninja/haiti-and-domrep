@@ -3,9 +3,9 @@ type: node
 latitude: 19.46885
 longitude: -72.67342
 postcode: ""
-city: Route nationale #1 Gatreau
+city: 'Route nationale #1 Gatreau'
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

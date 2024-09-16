@@ -1,11 +1,11 @@
 id: 419800248
-type: way
+type: node
 latitude: 18.53947
 longitude: -69.90447
 postcode: "11201"
 city: Santo Domingo Norte
-street: "Avenida Hermanas Mirabal"
-housenumber: 581
+street: Avenida Hermanas Mirabal
+housenumber: "581"
 phone: "+18097976406"
 opening_hours: ""
 website: ""

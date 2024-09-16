@@ -1,11 +1,11 @@
 id: 483726087
-type: way
+type: node
 latitude: 18.45449
 longitude: -69.95349
 postcode: ""
 city: Santo Domingo
-street: "Avenida Nuñez de Cáceres"
-housenumber: 305
+street: Avenida Nuñez de Cáceres
+housenumber: "305"
 phone: "+18092550099"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 412176999
-type: way
+type: node
 latitude: 18.48095
 longitude: -70.00229
 postcode: "10904"
 city: santo domingo
-street: "calle camino de engombe"
-housenumber: 6
-phone: "+1 809 508 2441"
+street: calle camino de engombe
+housenumber: "6"
+phone: +1 809 508 2441
 opening_hours: ""
 website: ""

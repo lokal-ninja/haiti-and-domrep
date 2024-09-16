@@ -1,11 +1,11 @@
 id: 378236090
-type: way
+type: node
 latitude: 18.47611
 longitude: -69.92074
 postcode: "10122"
 city: Santo Domingo
-street: "Avenida Gustavo Mejía Ricart"
-housenumber: 2
+street: Avenida Gustavo Mejía Ricart
+housenumber: "2"
 phone: "+18095626545"
 opening_hours: ""
 website: ""

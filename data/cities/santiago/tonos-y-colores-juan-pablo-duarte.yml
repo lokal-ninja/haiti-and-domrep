@@ -1,11 +1,11 @@
 id: 411435766
-type: way
+type: node
 latitude: 19.45854
 longitude: -70.67839
 postcode: ""
 city: Santiago
-street: "Juan Pablo Duarte"
-housenumber: 143
-phone: "809.582.7288"
+street: Juan Pablo Duarte
+housenumber: "143"
+phone: 809.582.7288
 opening_hours: ""
-website: "https://www.tonosycolores.com/"
+website: https://www.tonosycolores.com/

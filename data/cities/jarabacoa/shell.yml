@@ -1,11 +1,11 @@
 id: 1313830363
-type: way
+type: node
 latitude: 19.10864
 longitude: -70.65024
 postcode: "41000"
 city: Jarabacoa
-street: "Calle Obdulio Jiménez"
-housenumber: 
+street: Calle Obdulio Jiménez
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

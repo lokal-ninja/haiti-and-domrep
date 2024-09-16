@@ -1,11 +1,11 @@
 id: 1228067748
-type: way
+type: node
 latitude: 18.4798
 longitude: -71.42268
 postcode: "82000"
 city: Neiba
-street: "Calle Juan Pablo Duarte"
-housenumber: 
+street: Calle Juan Pablo Duarte
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

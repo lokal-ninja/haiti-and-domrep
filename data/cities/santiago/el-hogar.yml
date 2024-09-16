@@ -1,11 +1,11 @@
 id: 411411000
-type: way
+type: node
 latitude: 19.45922
 longitude: -70.66424
 postcode: ""
 city: Santiago
-street: "Carretera Don Pedro"
-housenumber: 
+street: Carretera Don Pedro
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

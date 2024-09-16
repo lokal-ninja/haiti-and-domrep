@@ -1,11 +1,11 @@
 id: 418183456
-type: way
+type: node
 latitude: 18.48975
 longitude: -69.90623
 postcode: "10413"
 city: Santo Domingo
-street: "Calle República de Paraguay"
-housenumber: 34
+street: Calle República de Paraguay
+housenumber: "34"
 phone: "+18096880043"
 opening_hours: ""
 website: ""

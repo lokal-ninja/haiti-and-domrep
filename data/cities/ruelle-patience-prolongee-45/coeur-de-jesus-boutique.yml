@@ -3,9 +3,9 @@ type: node
 latitude: 19.43707
 longitude: -72.68512
 postcode: ""
-city: ruelle patience prolongee #45
+city: 'ruelle patience prolongee #45'
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

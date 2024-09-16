@@ -1,11 +1,11 @@
 id: 408330375
-type: way
+type: node
 latitude: 18.47507
 longitude: -69.85746
 postcode: ""
 city: Santo Domingo
-street: "Calle 4 Avenida Jacinto de Los Santos"
-housenumber: 196
+street: Calle 4 Avenida Jacinto de Los Santos
+housenumber: "196"
 phone: ""
 opening_hours: ""
 website: ""

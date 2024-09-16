@@ -1,11 +1,11 @@
 id: 407070443
-type: way
+type: node
 latitude: 18.48885
 longitude: -69.89797
 postcode: ""
 city: Santo Domingo
-street: "Calle Hermanos Pinzon"
-housenumber: 115
+street: Calle Hermanos Pinzon
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

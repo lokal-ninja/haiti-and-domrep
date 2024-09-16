@@ -1,11 +1,11 @@
 id: 408033528
-type: way
+type: node
 latitude: 19.42652
 longitude: -70.65577
 postcode: ""
 city: Santiago
-street: "Calle Principal"
-housenumber: 
+street: Calle Principal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

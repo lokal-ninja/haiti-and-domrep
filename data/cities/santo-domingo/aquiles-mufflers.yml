@@ -1,11 +1,11 @@
 id: 418145130
-type: way
+type: node
 latitude: 18.48663
 longitude: -69.90777
 postcode: "10413"
 city: Santo Domingo
-street: "Calle Moca"
-housenumber: 76
+street: Calle Moca
+housenumber: "76"
 phone: "+18097889892"
 opening_hours: ""
 website: ""

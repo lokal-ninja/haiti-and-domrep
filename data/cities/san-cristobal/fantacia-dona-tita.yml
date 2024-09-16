@@ -1,11 +1,11 @@
 id: 409638205
-type: way
+type: node
 latitude: 18.42577
 longitude: -70.13374
 postcode: ""
 city: San Cristóbal
-street: "Calle 3"
-housenumber: 17
+street: Calle 3
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

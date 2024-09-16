@@ -1,11 +1,11 @@
 id: 408053416
-type: way
+type: node
 latitude: 18.47853
 longitude: -69.90244
 postcode: ""
 city: Santo Domingo
-street: "Avenida 27 de Febrero"
-housenumber: 247
+street: Avenida 27 de Febrero
+housenumber: "247"
 phone: ""
 opening_hours: ""
 website: ""

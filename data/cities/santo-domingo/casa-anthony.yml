@@ -1,11 +1,11 @@
 id: 408330865
-type: way
+type: node
 latitude: 18.48794
 longitude: -69.89512
 postcode: ""
 city: Santo Domingo
-street: "Avenida Duarte"
-housenumber: 197
+street: Avenida Duarte
+housenumber: "197"
 phone: ""
 opening_hours: ""
 website: ""

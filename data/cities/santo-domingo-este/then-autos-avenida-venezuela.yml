@@ -1,11 +1,11 @@
 id: 413953058
-type: way
+type: node
 latitude: 18.49336
 longitude: -69.86946
 postcode: "11501"
 city: Santo Domingo Este
-street: "Avenida Venezuela"
-housenumber: 81
+street: Avenida Venezuela
+housenumber: "81"
 phone: "8092736200"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.thenautos.com/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.thenautos.com/

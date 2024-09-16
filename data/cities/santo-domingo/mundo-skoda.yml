@@ -1,11 +1,11 @@
 id: 408665911
-type: way
+type: node
 latitude: 18.49911
 longitude: -69.96282
 postcode: ""
 city: Santo Domingo
-street: "Avenida Coronel Juan Maria Lora Fernandez"
-housenumber: 44
+street: Avenida Coronel Juan Maria Lora Fernandez
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

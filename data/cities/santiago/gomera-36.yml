@@ -1,11 +1,11 @@
 id: 734700571
-type: way
+type: node
 latitude: 19.47849
 longitude: -70.64033
 postcode: "51000"
 city: Santiago
-street: "Avenida 27 de Febrero, Santiago Tamboril. Próximo, Av. Circunvalación Nte."
-housenumber: 36
+street: Avenida 27 de Febrero, Santiago Tamboril. Próximo, Av. Circunvalación Nte.
+housenumber: "36"
 phone: "+18299359895"
-opening_hours: "Mo-Fr 07:30-18:00"
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

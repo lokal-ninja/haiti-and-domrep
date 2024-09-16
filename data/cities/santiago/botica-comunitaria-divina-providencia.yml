@@ -1,11 +1,11 @@
 id: 407800301
-type: way
+type: node
 latitude: 19.44628
 longitude: -70.66954
 postcode: ""
 city: Santiago
-street: "Calle 13"
-housenumber: 33
+street: Calle 13
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

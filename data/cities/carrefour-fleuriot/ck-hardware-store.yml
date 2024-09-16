@@ -1,11 +1,11 @@
 id: 593862196
-type: way
+type: node
 latitude: 18.57059
 longitude: -72.2724
 postcode: ""
 city: CARREFOUR FLEURIOT
-street: "Boulevard Toussaint Louverture"
-housenumber: 42
-phone: "509 3713 1313"
+street: Boulevard Toussaint Louverture
+housenumber: "42"
+phone: 509 3713 1313
 opening_hours: ""
-website: "https://www.ckhardwarehaiti.com/"
+website: https://www.ckhardwarehaiti.com/

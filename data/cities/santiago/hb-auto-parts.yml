@@ -1,11 +1,11 @@
 id: 407991243
-type: way
+type: node
 latitude: 19.46265
 longitude: -70.70818
 postcode: ""
 city: Santiago
-street: "Av J. Armando Bermúdez"
-housenumber: 150
-phone: "+1 809 241 0691"
+street: Av J. Armando Bermúdez
+housenumber: "150"
+phone: +1 809 241 0691
 opening_hours: ""
 website: ""

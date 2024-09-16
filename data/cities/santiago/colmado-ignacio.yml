@@ -1,11 +1,11 @@
 id: 411455101
-type: way
+type: node
 latitude: 19.45333
 longitude: -70.69966
 postcode: ""
 city: Santiago
-street: "Cuba"
-housenumber: 
+street: Cuba
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

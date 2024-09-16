@@ -1,11 +1,11 @@
 id: 407070428
-type: way
+type: node
 latitude: 18.48679
 longitude: -69.89694
 postcode: ""
 city: Santo Domingo
-street: "Sanchez Valverde"
-housenumber: 55
+street: Sanchez Valverde
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

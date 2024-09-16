@@ -1,11 +1,11 @@
 id: 409848321
-type: way
+type: node
 latitude: 19.46161
 longitude: -70.69168
 postcode: ""
 city: Santiago
-street: "Calle Dr Arturo Grullon"
-housenumber: 9
-phone: "+1 809 276 2717"
+street: Calle Dr Arturo Grullon
+housenumber: "9"
+phone: +1 809 276 2717
 opening_hours: ""
 website: ""

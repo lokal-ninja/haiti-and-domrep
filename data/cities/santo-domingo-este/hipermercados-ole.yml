@@ -1,11 +1,11 @@
 id: 777465020
-type: way
+type: node
 latitude: 18.49283
 longitude: -69.74687
 postcode: ""
 city: Santo Domingo Este
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

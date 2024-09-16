@@ -1,11 +1,11 @@
 id: 343819887
-type: way
+type: node
 latitude: 18.52632
 longitude: -69.81598
 postcode: "11807"
 city: Santo Domingo Este
-street: "Avenida La Pista"
-housenumber: 
+street: Avenida La Pista
+housenumber: ""
 phone: ""
-opening_hours: "Lu-Do 08:00-22:00"
+opening_hours: Lu-Do 08:00-22:00
 website: ""

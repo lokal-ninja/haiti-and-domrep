@@ -1,11 +1,11 @@
 id: 456444835
-type: way
+type: node
 latitude: 18.45093
 longitude: -69.95344
 postcode: "11109"
 city: Santo Domingo
-street: "Avenida Nuñez de Cáceres"
-housenumber: 
+street: Avenida Nuñez de Cáceres
+housenumber: ""
 phone: ""
-opening_hours: "7:00-0:00"
-website: "https://www.downtowncenter.com.do/"
+opening_hours: 7:00-0:00
+website: https://www.downtowncenter.com.do/

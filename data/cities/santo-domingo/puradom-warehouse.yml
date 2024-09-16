@@ -1,11 +1,11 @@
 id: 407808573
-type: way
+type: node
 latitude: 18.46454
 longitude: -69.97838
 postcode: "11005"
 city: Santo Domingo
-street: "Calle San Anton"
-housenumber: 
+street: Calle San Anton
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

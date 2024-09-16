@@ -4,8 +4,8 @@ latitude: 18.5078
 longitude: -72.28418
 postcode: ""
 city: Pétion-Ville
-street: "Rue Metellus"
-housenumber: 51
-phone: "3113-3333;3111-3333"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-14:00"
+street: Rue Metellus
+housenumber: "51"
+phone: 3113-3333;3111-3333
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-14:00
 website: ""

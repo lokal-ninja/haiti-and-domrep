@@ -1,11 +1,11 @@
 id: 332489104
-type: way
+type: node
 latitude: 18.47043
 longitude: -69.92873
 postcode: "10119"
 city: Santo Domingo
-street: "Avenida Roberto Pastoriza"
-housenumber: 315
+street: Avenida Roberto Pastoriza
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1020560308
-type: way
+type: node
 latitude: 18.50299
 longitude: -69.82574
 postcode: "11802"
 city: Santo Domingo Este
-street: "Avenida Charles de Gaulle"
-housenumber: 
-phone: "+809 599 4725"
-opening_hours: "Lu-Vi 08:00-17:00; Sa 08:00-16:00; Do off"
-website: "https://autotaveras.com/"
+street: Avenida Charles de Gaulle
+housenumber: ""
+phone: +809 599 4725
+opening_hours: Lu-Vi 08:00-17:00; Sa 08:00-16:00; Do off
+website: https://autotaveras.com/

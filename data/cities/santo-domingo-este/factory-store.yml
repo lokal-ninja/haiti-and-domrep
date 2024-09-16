@@ -1,11 +1,11 @@
 id: 1016427729
-type: way
+type: node
 latitude: 18.49232
 longitude: -69.81495
 postcode: ""
 city: Santo Domingo este
-street: "Av. Coronel Rafael Tomás Fernández Domínguez"
-housenumber: 
+street: Av. Coronel Rafael Tomás Fernández Domínguez
+housenumber: ""
 phone: ""
-opening_hours: "Lu-Vi 08:00-18:00; Sa 08:00-13:00; Do off"
-website: "https://www.rex.com.do/"
+opening_hours: Lu-Vi 08:00-18:00; Sa 08:00-13:00; Do off
+website: https://www.rex.com.do/

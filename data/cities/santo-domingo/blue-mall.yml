@@ -1,11 +1,11 @@
 id: 78592102
-type: way
+type: node
 latitude: 18.47216
 longitude: -69.94108
 postcode: "10127"
 city: Santo Domingo
-street: "Avenida Winston Churchill"
-housenumber: 80
+street: Avenida Winston Churchill
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.bluemall.com.do/"
+website: https://www.bluemall.com.do/

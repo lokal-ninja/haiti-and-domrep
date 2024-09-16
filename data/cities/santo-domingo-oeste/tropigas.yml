@@ -1,11 +1,11 @@
 id: 412595770
-type: way
+type: node
 latitude: 18.48683
 longitude: -69.99248
 postcode: "10902"
 city: Santo Domingo Oeste
-street: "Avenida Los Beisbolistas"
-housenumber: 
+street: Avenida Los Beisbolistas
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

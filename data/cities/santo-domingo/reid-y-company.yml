@@ -1,11 +1,11 @@
 id: 410100070
-type: way
+type: node
 latitude: 18.48255
 longitude: -69.93291
 postcode: "10129"
 city: Santo Domingo
-street: "Avenida John F. Kennedy"
-housenumber: 
+street: Avenida John F. Kennedy
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

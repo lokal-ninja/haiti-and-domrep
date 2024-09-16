@@ -1,11 +1,11 @@
 id: 409593847
-type: way
+type: node
 latitude: 18.54849
 longitude: -69.90212
 postcode: ""
 city: Santo Domingo
-street: "Avenida Hermanas Mirabal"
-housenumber: 390
-phone: "809.332.5050"
+street: Avenida Hermanas Mirabal
+housenumber: "390"
+phone: 809.332.5050
 opening_hours: ""
-website: "https://www.tonosycolores.com/"
+website: https://www.tonosycolores.com/

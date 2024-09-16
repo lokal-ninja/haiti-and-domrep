@@ -1,11 +1,11 @@
 id: 410607043
-type: way
+type: node
 latitude: 18.45601
 longitude: -69.67394
 postcode: ""
 city: Campo Lindo
-street: "Calle Fernando Ozuna"
-housenumber: 23
+street: Calle Fernando Ozuna
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

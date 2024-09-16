@@ -1,11 +1,11 @@
 id: 423035443
-type: way
+type: node
 latitude: 18.48666
 longitude: -69.85299
 postcode: ""
 city: Santo Domingo Este
-street: "San Vincente de Paul"
-housenumber: 3
+street: San Vincente de Paul
+housenumber: "3"
 phone: "+18097886267"
 opening_hours: ""
 website: ""

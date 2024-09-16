@@ -1,11 +1,11 @@
 id: 639172947
-type: way
+type: node
 latitude: 18.4836
 longitude: -69.90228
 postcode: "10309"
 city: Distrito Nacional
-street: "Calle Doctor Tejada Florentino"
-housenumber: 29
+street: Calle Doctor Tejada Florentino
+housenumber: "29"
 phone: "+18093335665"
 opening_hours: ""
 website: ""

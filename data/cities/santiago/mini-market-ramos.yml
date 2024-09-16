@@ -1,11 +1,11 @@
 id: 408648837
-type: way
+type: node
 latitude: 19.41537
 longitude: -70.71727
 postcode: ""
 city: Santiago
-street: "Av. Nuñez De Cacerez"
-housenumber: 28
-phone: "809 921 1052"
+street: Av. Nuñez De Cacerez
+housenumber: "28"
+phone: 809 921 1052
 opening_hours: ""
 website: ""

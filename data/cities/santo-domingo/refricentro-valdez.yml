@@ -1,11 +1,11 @@
 id: 407799579
-type: way
+type: node
 latitude: 18.45642
 longitude: -69.97775
 postcode: ""
 city: Santo Domingo
-street: "Avenida Isabel Aguiar"
-housenumber: 66
-phone: "809 531 5025"
+street: Avenida Isabel Aguiar
+housenumber: "66"
+phone: 809 531 5025
 opening_hours: ""
 website: ""

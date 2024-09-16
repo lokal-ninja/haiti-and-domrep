@@ -1,11 +1,11 @@
 id: 370186348
-type: way
+type: node
 latitude: 18.5231
 longitude: -69.91779
 postcode: "11302"
 city: Villa Mella
-street: "Avenida Hermanas Mirabal"
-housenumber: 35
+street: Avenida Hermanas Mirabal
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 418140599
-type: way
+type: node
 latitude: 18.48669
 longitude: -69.9061
 postcode: "10413"
 city: Santo Domingo
-street: "Calle Pena Batlle"
-housenumber: 45
+street: Calle Pena Batlle
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 576927378
-type: way
+type: node
 latitude: 18.45692
 longitude: -69.94935
 postcode: ""
 city: Santo Domingo
-street: "Avenida 27 de Febrero, esq Carmen Mendoza de Cornielle"
-housenumber: 398
-phone: "+1 (809) 563-6267"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-13:00"
-website: "https://www.zuniflor.com.do/"
+street: Avenida 27 de Febrero, esq Carmen Mendoza de Cornielle
+housenumber: "398"
+phone: +1 (809) 563-6267
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-19:00; Su 09:00-13:00
+website: https://www.zuniflor.com.do/

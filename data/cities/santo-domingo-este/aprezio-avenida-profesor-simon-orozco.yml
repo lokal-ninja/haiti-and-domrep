@@ -1,11 +1,11 @@
 id: 999748641
-type: way
+type: node
 latitude: 18.51529
 longitude: -69.81904
 postcode: "11807"
 city: Santo Domingo Este
-street: "Avenida Profesor Simón Orozco"
-housenumber: 
+street: Avenida Profesor Simón Orozco
+housenumber: ""
 phone: ""
-opening_hours: "Lu-Sa 08:00-20:00; Do 08:00-18:00"
-website: "http://gruporamos.com/"
+opening_hours: Lu-Sa 08:00-20:00; Do 08:00-18:00
+website: http://gruporamos.com/

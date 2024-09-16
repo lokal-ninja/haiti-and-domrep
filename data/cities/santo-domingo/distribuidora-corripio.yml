@@ -1,11 +1,11 @@
 id: 410088493
-type: way
+type: node
 latitude: 18.48018
 longitude: -69.96006
 postcode: ""
 city: Santo Domingo
-street: "John F. Kennedy"
-housenumber: 
-phone: "809 472 4500"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-14:00"
-website: "www.tiendascorripio.com"
+street: John F. Kennedy
+housenumber: ""
+phone: 809 472 4500
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-14:00
+website: www.tiendascorripio.com

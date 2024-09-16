@@ -3,9 +3,9 @@ type: node
 latitude: 19.46707
 longitude: -72.67542
 postcode: ""
-city: Route Nationale #1, Carrefou Turene
+city: 'Route Nationale #1, Carrefou Turene'
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

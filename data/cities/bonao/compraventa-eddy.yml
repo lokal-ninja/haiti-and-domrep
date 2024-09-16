@@ -1,11 +1,11 @@
 id: 529112361
-type: way
+type: node
 latitude: 18.93069
 longitude: -70.40006
 postcode: "42002"
 city: Bonao
-street: "Privada"
-housenumber: 99
+street: Privada
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:00"
+opening_hours: Mo-Sa 08:30-18:00
 website: ""

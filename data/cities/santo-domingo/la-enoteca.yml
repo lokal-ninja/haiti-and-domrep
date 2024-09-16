@@ -1,11 +1,11 @@
 id: 378376923
-type: way
+type: node
 latitude: 18.47852
 longitude: -69.93692
 postcode: "10125"
 city: Santo Domingo
-street: "Avenida Abraham Lincoln"
-housenumber: 
+street: Avenida Abraham Lincoln
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

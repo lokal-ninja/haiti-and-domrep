@@ -1,11 +1,11 @@
 id: 101548259
-type: way
+type: node
 latitude: 18.26969
 longitude: -72.55183
 postcode: ""
 city: jacmel
-street: "la voute"
-housenumber: 
+street: la voute
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""
