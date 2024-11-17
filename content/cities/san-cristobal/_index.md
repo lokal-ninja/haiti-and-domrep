@@ -1,6 +1,6 @@
 ---
 title: San Cristóbal
 url: /san-cristobal/
-latitude: 18.427
-longitude: -70.115
+latitude: 18.423
+longitude: -70.116
 ---
