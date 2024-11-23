@@ -1,6 +1,6 @@
 ---
-title: Saint Michel de L'Attalaye
+title: Saint-Michel de L'Attalaye
 url: /saint-michel-de-lattalaye/
-latitude: 19.371
-longitude: -72.334
+latitude: 19.368
+longitude: -72.332
 ---
