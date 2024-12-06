@@ -1,6 +1,6 @@
 ---
 title: Route Nationale, Bigot
 url: /route-nationale-bigot/
-latitude: 19.442
-longitude: -72.676
+latitude: 19.441
+longitude: -72.67
 ---

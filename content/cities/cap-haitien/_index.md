@@ -1,6 +1,6 @@
 ---
 title: Cap-Haitien
 url: /cap-haitien/
-latitude: 19.766
-longitude: -72.196
+latitude: 19.764
+longitude: -72.2
 ---
