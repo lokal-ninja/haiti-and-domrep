@@ -1,5 +1,5 @@
 ---
 title: "Orange"
-url: /santiago/orange-avenida-las-carreras/
+url: /santiago/orange-calle-del-sol/
 shop: teléfono móvil
 ---

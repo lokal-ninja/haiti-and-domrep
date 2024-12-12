@@ -1,6 +1,6 @@
 ---
 title: Route Dattes
 url: /route-dattes/
-latitude: 19.449
-longitude: -72.688
+latitude: 19.457
+longitude: -72.677
 ---

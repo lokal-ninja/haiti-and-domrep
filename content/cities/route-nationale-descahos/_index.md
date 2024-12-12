@@ -1,6 +1,6 @@
 ---
 title: Route Nationale, Descahos
 url: /route-nationale-descahos/
-latitude: 19.444
-longitude: -72.682
+latitude: 19.445
+longitude: -72.687
 ---
