@@ -1,6 +1,6 @@
 ---
 title: Limonade
 url: /limonade/
-latitude: 19.672
-longitude: -72.125
+latitude: 19.671
+longitude: -72.126
 ---

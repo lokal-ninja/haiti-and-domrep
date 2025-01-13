@@ -1,5 +1,5 @@
 ---
 title: "boulanger"
-url: /jacmel/boulanger-ruelle-christ-roi/
+url: /jacmel/boulanger-bois-coupe/
 shop: panadería
 ---
