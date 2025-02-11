@@ -1,5 +1,5 @@
 ---
 title: "Orange"
-url: /santiago/orange/
+url: /santo-domingo/orange-avenida-duarte/
 shop: teléfono móvil
 ---
