@@ -1,6 +1,6 @@
 ---
 title: leogane
 url: /leogane/
-latitude: 18.514
-longitude: -72.628
+latitude: 18.532
+longitude: -72.561
 ---
