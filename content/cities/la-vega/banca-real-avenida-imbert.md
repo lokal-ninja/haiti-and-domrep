@@ -1,5 +1,5 @@
 ---
 title: "Banca Real"
-url: /santiago/banca-real-calle-del-sol/
+url: /la-vega/banca-real-avenida-imbert/
 shop: lotería
 ---
