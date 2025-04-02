@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /la-vega/claro-don-luis-despradel/
+url: /la-vega/claro-calle-nunez-de-caceres/
 shop: teléfono móvil
 ---
