@@ -1,6 +1,6 @@
 ---
 title: Los Alcarrizos
 url: /los-alcarrizos/
-latitude: 18.524
-longitude: -70.032
+latitude: 18.525
+longitude: -70.023
 ---
