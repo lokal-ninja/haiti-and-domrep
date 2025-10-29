@@ -1,6 +1,6 @@
 ---
-title: El almirante, Santo Domingo, Este
+title: El almirante, Santo Domingo este
 url: /el-almirante-santo-domingo-este/
-latitude: 18.524
-longitude: -69.814
+latitude: 18.526
+longitude: -69.806
 ---
