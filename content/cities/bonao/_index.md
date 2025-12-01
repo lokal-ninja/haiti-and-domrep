@@ -1,6 +1,6 @@
 ---
 title: Bonao
 url: /bonao/
-latitude: 18.951
-longitude: -70.403
+latitude: 18.934
+longitude: -70.409
 ---
