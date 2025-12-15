@@ -1,6 +1,6 @@
 ---
 title: gonaives acifa
 url: /gonaives-acifa/
-latitude: 19.449
-longitude: -72.674
+latitude: 19.451
+longitude: -72.678
 ---
