@@ -1,5 +1,5 @@
 ---
 title: "bienvenue"
-url: /jacmel/bienvenue-st-helene/
+url: /jacmel/bienvenue-rue-st-helene/
 shop: hardware
 ---

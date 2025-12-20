@@ -1,6 +1,6 @@
 ---
 title: anse rouge
 url: /anse-rouge/
-latitude: 19.637
-longitude: -73.058
+latitude: 19.635
+longitude: -73.057
 ---
