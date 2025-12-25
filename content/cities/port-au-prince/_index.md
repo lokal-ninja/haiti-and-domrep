@@ -1,6 +1,6 @@
 ---
-title: Port-Au-Prince
+title: Port-au-Prince
 url: /port-au-prince/
-latitude: 18.547
-longitude: -72.347
+latitude: 18.544
+longitude: -72.342
 ---
