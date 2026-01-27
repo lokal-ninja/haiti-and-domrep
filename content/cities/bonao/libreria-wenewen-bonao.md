@@ -1,5 +1,5 @@
 ---
-title: "Libreria Wenewen Bonao"
+title: "Librería Wenewen Bonao"
 url: /bonao/libreria-wenewen-bonao/
-shop: general
+shop: libros
 ---

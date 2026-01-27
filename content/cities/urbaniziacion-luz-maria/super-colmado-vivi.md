@@ -1,5 +1,5 @@
 ---
-title: "Super Colmado Vivi"
+title: "Súper Colmado Vivi"
 url: /urbaniziacion-luz-maria/super-colmado-vivi/
-shop: general
+shop: comodidad
 ---

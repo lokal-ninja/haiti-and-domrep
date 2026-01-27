@@ -1,5 +1,5 @@
 ---
-title: "Peugeot Rapido"
+title: "Peugeot Rápido"
 url: /santo-domingo/peugeot-rapido/
-shop: general
+shop: reparación de automóviles
 ---

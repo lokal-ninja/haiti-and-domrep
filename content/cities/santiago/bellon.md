@@ -1,5 +1,5 @@
 ---
-title: "Bellon"
+title: "Bellón"
 url: /santiago/bellon/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Llaves Nunez"
+title: "Llaves Núñez"
 url: /bonao/llaves-nunez/
 shop: cerrajero
 ---
