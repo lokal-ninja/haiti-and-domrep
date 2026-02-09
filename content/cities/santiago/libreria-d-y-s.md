@@ -1,5 +1,5 @@
 ---
-title: "Libreria D & S"
+title: "Librería D & S"
 url: /santiago/libreria-d-y-s/
 shop: libros
 ---

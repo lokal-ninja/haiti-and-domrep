@@ -1,5 +1,5 @@
 ---
-title: "Salon De Belleza Channel"
+title: "Salón de Belleza Channel"
 url: /santiago/salon-de-belleza-channel/
 shop: cosméticos
 ---

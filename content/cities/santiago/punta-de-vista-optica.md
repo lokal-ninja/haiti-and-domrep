@@ -1,5 +1,5 @@
 ---
-title: "Punta de Vista Optica"
+title: "Punta de Vista Óptica"
 url: /santiago/punta-de-vista-optica/
 shop: óptico
 ---

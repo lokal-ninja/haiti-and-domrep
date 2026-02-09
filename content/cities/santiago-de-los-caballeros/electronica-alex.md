@@ -1,5 +1,5 @@
 ---
-title: "Electrónica Alex"
+title: "Electrónica Álex"
 url: /santiago-de-los-caballeros/electronica-alex/
 shop: electrónica
 ---

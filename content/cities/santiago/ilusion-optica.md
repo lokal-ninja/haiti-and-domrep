@@ -1,5 +1,5 @@
 ---
-title: "Ilusion Optica"
+title: "Ilusión Óptica"
 url: /santiago/ilusion-optica/
 shop: óptico
 ---
