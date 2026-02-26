@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria P & L"
+title: "Ferretería P & L"
 url: /bonao/ferreteria-p-y-l/
 shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Optica Almanzar"
+title: "Óptica Almánzar"
 url: /bonao/optica-almanzar/
 shop: óptico
 ---

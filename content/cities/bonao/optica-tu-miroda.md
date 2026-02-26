@@ -1,5 +1,5 @@
 ---
-title: "Optica Tu Miroda"
+title: "Óptica Tu Miroda"
 url: /bonao/optica-tu-miroda/
 shop: óptico
 ---

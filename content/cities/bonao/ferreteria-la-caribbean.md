@@ -1,5 +1,5 @@
 ---
-title: "Ferreteria La Caribbean"
+title: "Ferretería La Caribbean"
 url: /bonao/ferreteria-la-caribbean/
 shop: hardware
 ---
