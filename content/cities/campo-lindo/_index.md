@@ -1,6 +1,6 @@
 ---
 title: Campo Lindo
 url: /campo-lindo/
-latitude: 18.453
-longitude: -69.677
+latitude: 18.462
+longitude: -69.69
 ---
