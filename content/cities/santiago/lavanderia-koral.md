@@ -1,5 +1,5 @@
 ---
-title: "Lavanderia Koral"
+title: "Lavandería Koral"
 url: /santiago/lavanderia-koral/
-shop: general
+shop: lavandería
 ---
