@@ -1,6 +1,6 @@
 ---
 title: Boca Chica
 url: /boca-chica/
-latitude: 18.448
-longitude: -69.608
+latitude: 18.451
+longitude: -69.613
 ---
