@@ -1,6 +1,6 @@
 ---
 title: jacmel
 url: /jacmel/
-latitude: 18.233
-longitude: -72.403
+latitude: 18.23
+longitude: -72.396
 ---
