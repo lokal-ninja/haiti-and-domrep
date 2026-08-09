@@ -1,5 +1,5 @@
 ---
-title: "EKO Depot"
+title: "Eko Depot"
 url: /petion-ville/eko-depot/
-shop: hágalo usted mismo
+shop: hardware
 ---
