@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /santiago/orange/
-shop: general
+shop: teléfono móvil
 ---
