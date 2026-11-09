@@ -1,6 +1,6 @@
 ---
 title: La Vega
 url: /la-vega/
-latitude: 19.22
-longitude: -70.527
+latitude: 19.227
+longitude: -70.53
 ---
